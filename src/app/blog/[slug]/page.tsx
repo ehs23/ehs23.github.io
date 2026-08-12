@@ -153,24 +153,6 @@ export default async function PostPage({
           </div>
 
 
-          {/* Slug */}
-          <div className="property-row">
-
-            <div className="property-name">
-              <span className="property-icon">
-                ≡
-              </span>
-
-              Slug
-            </div>
-
-            <div className="property-value">
-              {post.slug}
-            </div>
-
-          </div>
-
-
           {/* Tags */}
           <div className="property-row">
 

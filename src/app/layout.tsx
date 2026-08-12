@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import "./globals.css";
 
-const siteName = "ehs23";
+const siteName = "TAF";
 const siteDescription =
-  "개발하면서 배우고 기록한 내용을 정리하는 기술 블로그입니다.";
+  "배우고 기록한 내용을 정리하는 블로그입니다.";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://ehs23.github.io"),
