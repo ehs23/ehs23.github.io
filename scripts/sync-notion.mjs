@@ -174,6 +174,19 @@ function getTags(page) {
   return property.multi_select.map((tag) => tag.name);
 }
 
+// Notion의 Types 멀티셀렉트 속성을 문자열 배열로 변환
+function getTypes(page) {
+  const property = page.properties.Types;
+
+  // Types가 없거나 multi_select 타입이 아니면 빈 배열 반환
+  if (!property || property.type !== "multi_select") {
+    return [];
+  }
+
+  // [{ name: "Development" }, ...]
+  // → ["Development", "Study", ...]
+  return property.multi_select.map((type) => type.name);
+}
 
 // ============================================================
 // 6. 이전에 Notion이 자동 생성했던 파일 삭제
@@ -323,6 +336,7 @@ async function syncNotionPosts() {
     const date = getDate(result);
     const description = getDescription(result);
     const tags = getTags(result);
+    const types = getTypes(result);
 
 
     // Slug가 없으면 파일 이름을 만들 수 없으므로 건너뛴다.
@@ -374,6 +388,9 @@ async function syncNotionPosts() {
 
       // 태그 배열
       tags,
+
+      // 타입 배열
+      types,
 
       // 나중에 어떤 Notion Page에서 생성됐는지 확인하기 위한 ID
       notionPageId: result.id,

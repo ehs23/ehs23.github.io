@@ -1,26 +1,768 @@
-@import "tailwindcss";
+/* =========================================================
+   전체 기본 설정
+   ========================================================= */
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+* {
+  /* padding과 border가 요소 크기에 포함되도록 설정 */
+  box-sizing: border-box;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+html {
+  /* 스크롤 이동을 부드럽게 */
+  scroll-behavior: smooth;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* 브라우저 기본 여백 제거 */
+  margin: 0;
+
+  /* Notion / Tistory 느낌의 깔끔한 시스템 폰트 */
+  font-family:
+    "Pretendard",
+    "Apple SD Gothic Neo",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  /* 전체 배경색 */
+  background: #ffffff;
+
+  /* 기본 글자색 */
+  color: #292929;
+
+  /* 글씨를 조금 더 부드럽게 렌더링 */
+  -webkit-font-smoothing: antialiased;
+}
+
+
+a {
+  /* 링크 기본 밑줄 제거 */
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
+/* =========================================================
+   메인 블로그 페이지
+   ========================================================= */
+
+.home-page {
+  /* 화면이 너무 넓어지지 않도록 제한 */
+  width: min(100% - 48px, 960px);
+
+  /* 가운데 정렬 */
+  margin: 0 auto;
+
+  /* 위아래 공간 */
+  padding: 72px 0 100px;
+}
+
+
+
+/* 블로그 소개 영역 */
+
+.home-header {
+  /* 아래 게시글 영역과 간격 */
+  margin-bottom: 72px;
+}
+
+
+.blog-name {
+  margin: 0 0 12px;
+
+  /* 심플하고 크게 */
+  font-size: 36px;
+
+  font-weight: 750;
+
+  letter-spacing: -1.5px;
+}
+
+
+.blog-description {
+  margin: 0;
+
+  /* 부가 설명은 흐리게 */
+  color: #888;
+
+  font-size: 15px;
+
+  line-height: 1.7;
+}
+
+
+
+/* 최근 글 영역 제목 */
+
+.feed-header {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  /* 아래 구분선 */
+  border-bottom: 1px solid #ededed;
+
+  padding-bottom: 15px;
+}
+
+
+.feed-header h2 {
+  margin: 0;
+
+  font-size: 17px;
+
+  font-weight: 650;
+}
+
+
+.feed-header span {
+  color: #a0a0a0;
+
+  font-size: 13px;
+}
+
+
+
+/* =========================================================
+   게시글 Feed
+   ========================================================= */
+
+.post-feed {
+  width: 100%;
+}
+
+
+.post-card {
+  /* 두 번째 이미지처럼 가로 배치 */
+  display: grid;
+
+  grid-template-columns:
+    52px
+    minmax(0, 1fr)
+    auto;
+
+  gap: 18px;
+
+  /* 위아래 충분한 공간 */
+  padding: 32px 0;
+
+  /* 게시물 사이 얇은 선 */
+  border-bottom: 1px solid #ededed;
+}
+
+
+
+/* 프로필 원 */
+
+.post-avatar {
+  width: 46px;
+
+  height: 46px;
+
+  border-radius: 50%;
+
+  /* 검은색 프로필 */
+  background: #292929;
+
+  color: white;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  font-size: 17px;
+
+  font-weight: 650;
+
+  /* 선택 방지 */
+  user-select: none;
+}
+
+
+
+/* 게시글 내용 */
+
+.post-card-content {
+  min-width: 0;
+}
+
+
+
+/* 작성자 + 날짜 */
+
+.post-meta {
+  display: flex;
+
+  align-items: center;
+
+  gap: 7px;
+
+  margin-bottom: 8px;
+
+  color: #9b9b9b;
+
+  font-size: 12px;
+}
+
+
+.post-author {
+  /* 작성자만 약간 진하게 */
+  color: #555;
+
+  font-weight: 550;
+}
+
+
+
+/* 게시글 제목 */
+
+.post-title {
+  margin: 0;
+
+  color: #202020;
+
+  font-size: 21px;
+
+  font-weight: 650;
+
+  line-height: 1.4;
+
+  letter-spacing: -0.55px;
+
+  transition: color 0.18s ease;
+}
+
+
+/* 제목에 마우스 올렸을 때 */
+.post-title-link:hover .post-title {
+  color: #777;
+}
+
+
+
+/* 게시글 설명 */
+
+.post-description {
+  margin: 8px 0 0;
+
+  color: #858585;
+
+  font-size: 14px;
+
+  line-height: 1.65;
+
+  line-clamp: 2;
+
+
+  /* 설명은 최대 두 줄까지만 표시 */
+  display: -webkit-box;
+
+  -webkit-line-clamp: 2;
+
+  -webkit-box-orient: vertical;
+
+  overflow: hidden;
+}
+
+
+
+/* 게시글 태그 */
+
+.post-tags {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 7px;
+
+  margin-top: 13px;
+}
+
+
+.post-tag {
+  color: #999;
+
+  font-size: 12px;
+}
+
+
+
+/* 오른쪽 작은 정보 */
+
+.post-side-info {
+  color: #a9a9a9;
+
+  font-size: 12px;
+
+  white-space: nowrap;
+
+  padding-top: 2px;
+}
+
+
+
+/* =========================================================
+   Notion 스타일 상세 페이지
+   ========================================================= */
+
+.notion-page {
+  /* Notion과 비슷한 본문 너비 */
+  width: min(100% - 48px, 760px);
+
+  margin: 0 auto;
+
+  padding:
+    55px
+    0
+    120px;
+}
+
+
+
+/* 뒤로가기 */
+
+.back-link {
+  display: inline-block;
+
+  margin-bottom: 55px;
+
+  color: #999;
+
+  font-size: 13px;
+
+  transition: color 0.15s ease;
+}
+
+
+.back-link:hover {
+  color: #333;
+}
+
+
+
+/* 제목 */
+
+.notion-header {
+  width: 100%;
+}
+
+
+.notion-title {
+  margin:
+    0
+    0
+    30px;
+
+  /* 첫 번째 이미지처럼 매우 크게 */
+  font-size: clamp(
+    34px,
+    6vw,
+    46px
+  );
+
+  font-weight: 750;
+
+  line-height: 1.18;
+
+  letter-spacing: -1.8px;
+
+  color: #292929;
+}
+
+
+
+/* =========================================================
+   Notion Property 영역
+   ========================================================= */
+
+.notion-properties {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 7px;
+}
+
+
+.property-row {
+  display: grid;
+
+  grid-template-columns:
+    165px
+    minmax(0, 1fr);
+
+  align-items: start;
+
+  min-height: 32px;
+
+  font-size: 14px;
+}
+
+
+.property-name {
+  display: flex;
+
+  align-items: center;
+
+  gap: 9px;
+
+  color: #858585;
+}
+
+
+.property-icon {
+  width: 16px;
+
+  color: #999;
+
+  text-align: center;
+}
+
+
+.property-value {
+  color: #373737;
+
+  line-height: 1.65;
+}
+
+
+
+/* Notion 느낌 태그 */
+
+.property-tags {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 6px;
+}
+
+
+.notion-tag {
+  /* 아주 연한 회색 배경 */
+  background: #eeeeec;
+
+  color: #555;
+
+  border-radius: 4px;
+
+  padding: 2px 7px;
+
+  font-size: 13px;
+
+  line-height: 1.4;
+}
+
+
+
+/* Property와 본문 사이 선 */
+
+.notion-divider {
+  height: 1px;
+
+  background: #ececec;
+
+  margin:
+    38px
+    0
+    55px;
+}
+
+
+
+/* =========================================================
+   Markdown 본문
+   ========================================================= */
+
+.markdown-body {
+  /* Notion과 비슷한 본문 크기 */
+  font-size: 16px;
+
+  line-height: 1.85;
+
+  color: #37352f;
+}
+
+
+
+/* Markdown 제목 */
+
+.markdown-body h1 {
+  margin:
+    52px
+    0
+    18px;
+
+  font-size: 30px;
+
+  line-height: 1.35;
+
+  letter-spacing: -1px;
+}
+
+
+.markdown-body h2 {
+  margin:
+    46px
+    0
+    15px;
+
+  font-size: 25px;
+
+  line-height: 1.4;
+
+  letter-spacing: -0.7px;
+}
+
+
+.markdown-body h3 {
+  margin:
+    38px
+    0
+    13px;
+
+  font-size: 20px;
+
+  line-height: 1.5;
+}
+
+
+
+/* 첫 번째 Markdown 제목은 너무 멀어지지 않도록 처리 */
+
+.markdown-body > :first-child {
+  margin-top: 0;
+}
+
+
+
+/* 본문 문단 */
+
+.markdown-body p {
+  margin:
+    0
+    0
+    18px;
+}
+
+
+
+/* 리스트 */
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 25px;
+
+  margin:
+    16px
+    0
+    22px;
+}
+
+
+.markdown-body li {
+  margin: 6px 0;
+}
+
+
+
+/* 링크 */
+
+.markdown-body a {
+  color: #3567a8;
+
+  text-decoration: underline;
+
+  text-underline-offset: 3px;
+}
+
+
+
+/* 인라인 코드 */
+
+.markdown-body code {
+  background: #f2f2f0;
+
+  border-radius: 4px;
+
+  padding: 2px 5px;
+
+  font-family:
+    "SFMono-Regular",
+    Consolas,
+    monospace;
+
+  font-size: 0.9em;
+}
+
+
+
+/* 코드 블록 */
+
+.markdown-body pre {
+  overflow-x: auto;
+
+  margin:
+    25px
+    0;
+
+  padding: 20px;
+
+  border-radius: 6px;
+
+  background: #f7f7f5;
+
+  line-height: 1.65;
+}
+
+
+.markdown-body pre code {
+  /* 코드 블록 내부에서는 중복 배경 제거 */
+  padding: 0;
+
+  background: transparent;
+}
+
+
+
+/* 인용구 */
+
+.markdown-body blockquote {
+  margin:
+    24px
+    0;
+
+  padding:
+    2px
+    0
+    2px
+    16px;
+
+  border-left: 3px solid #d8d8d5;
+
+  color: #666;
+}
+
+
+
+/* 이미지 */
+
+.markdown-body img {
+  display: block;
+
+  max-width: 100%;
+
+  height: auto;
+
+  margin:
+    28px auto;
+
+  border-radius: 4px;
+}
+
+
+
+/* 구분선 */
+
+.markdown-body hr {
+  border: 0;
+
+  border-top: 1px solid #ededed;
+
+  margin:
+    45px
+    0;
+}
+
+
+
+/* =========================================================
+   모바일 반응형
+   ========================================================= */
+
+@media (max-width: 680px) {
+
+  .home-page {
+    width: min(100% - 32px, 960px);
+
+    padding-top: 42px;
+  }
+
+
+  .home-header {
+    margin-bottom: 50px;
+  }
+
+
+  .post-card {
+    /* 모바일에서는 오른쪽 정보 영역을 없애고 2열 사용 */
+    grid-template-columns:
+      42px
+      minmax(0, 1fr);
+
+    gap: 13px;
+
+    padding: 25px 0;
+  }
+
+
+  .post-avatar {
+    width: 38px;
+
+    height: 38px;
+
+    font-size: 14px;
+  }
+
+
+  .post-title {
+    font-size: 19px;
+  }
+
+
+  .post-side-info {
+    display: none;
+  }
+
+
+  .notion-page {
+    width: min(100% - 32px, 760px);
+
+    padding-top: 35px;
+  }
+
+
+  .back-link {
+    margin-bottom: 38px;
+  }
+
+
+  .notion-title {
+    margin-bottom: 25px;
+  }
+
+
+  .property-row {
+    /* 모바일에서는 Property 이름 영역을 줄인다. */
+    grid-template-columns:
+      125px
+      minmax(0, 1fr);
+  }
+
+
+  .notion-divider {
+    margin:
+      32px
+      0
+      45px;
+  }
+
 }

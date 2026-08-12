@@ -4,6 +4,10 @@ date: '2026-08-13'
 description: Notion에서 작성한 첫번째 테스트 글입니다.
 tags:
   - NotionToGit
+types:
+  - Development
+  - Study
+  - VibeCoding
 notionPageId: 3ba6d44f-ad1f-80d7-9090-fa956b9e2048
 ---
 # Notion 블로그 테스트

@@ -10,6 +10,7 @@ export type Post = {
   date: string;
   description: string;
   tags: string[];
+  types: string[];
 };
 
 export function getAllPosts(): Post[] {
@@ -30,6 +31,7 @@ export function getAllPosts(): Post[] {
         date: data.date,
         description: data.description ?? "",
         tags: data.tags ?? [],
+        types: data.types ?? [],
       };
     });
 
@@ -51,6 +53,7 @@ export function getPost(slug: string) {
     date: data.date,
     description: data.description ?? "",
     tags: data.tags ?? [],
+    types: data.types ?? [],
     content,
   };
 }
