@@ -26,12 +26,12 @@ export default function HomePage() {
 
         {/* 블로그 제목 */}
         <h1 className="blog-name">
-          ehs23
+          TAF : ehs23
         </h1>
 
         {/* 블로그에 대한 간단한 설명 */}
         <p className="blog-description">
-          개발하면서 배우고 기록한 내용을 정리합니다.
+          나의 개발 및 학습을 기록하도록 만든 자작 사이트입니다.
         </p>
 
       </header>
