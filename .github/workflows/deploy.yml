@@ -1,58 +1,249 @@
-name: Deploy Next.js to GitHub Pages
+# GitHub Actions 화면에 표시될 Workflow 이름
+name: Sync Notion and Deploy Blog
+
+
+# ============================================================
+# Workflow 실행 조건
+# ============================================================
 
 on:
+
+  # 내가 직접 main 브랜치에 코드를 push했을 때도 실행
   push:
     branches:
       - main
 
+  # 일정 시간마다 자동으로 실행
+  schedule:
+
+    # 매시간 7분, 37분에 실행
+    # 즉 약 30분 간격으로 Notion을 확인한다.
+    #
+    # 정각 대신 7분/37분을 사용하는 이유는
+    # GitHub Actions가 매시 정각에 상대적으로 혼잡할 수 있기 때문이다.
+    - cron: "7,37 * * * *"
+
+      # 스케줄 기준 시간대를 한국으로 지정
+      timezone: "Asia/Seoul"
+
+
+  # GitHub Actions 화면에서
+  # "Run workflow" 버튼으로 직접 실행할 수도 있게 한다.
   workflow_dispatch:
 
+
+# ============================================================
+# GitHub Actions 권한
+# ============================================================
+
 permissions:
-  contents: read
+
+  # Notion에서 생성된 Markdown을
+  # GitHub 저장소에 commit/push하기 위해 필요하다.
+  contents: write
+
+  # GitHub Pages에 배포하기 위한 권한
   pages: write
+
+  # GitHub Pages 배포 인증에 필요
   id-token: write
 
+
+# ============================================================
+# 동시에 여러 배포가 실행되는 것을 방지
+# ============================================================
+
 concurrency:
+
+  # 모든 Pages 배포를 같은 그룹으로 묶는다.
   group: pages
+
+  # 새로운 실행이 시작되면
+  # 아직 끝나지 않은 이전 배포는 취소한다.
   cancel-in-progress: true
 
+
+# ============================================================
+# 작업 시작
+# ============================================================
+
 jobs:
+
+
+  # ==========================================================
+  # 1. Notion 동기화 + Next.js 빌드
+  # ==========================================================
+
   build:
+
+    # GitHub에서 제공하는 Ubuntu 환경 사용
     runs-on: ubuntu-latest
 
     steps:
+
+
+      # ------------------------------------------------------
+      # GitHub Repository 코드 가져오기
+      # ------------------------------------------------------
+
       - name: Checkout
+
+        # 현재 저장소의 코드를 GitHub Actions 서버로 가져온다.
         uses: actions/checkout@v4
 
+
+      # ------------------------------------------------------
+      # Node.js 설정
+      # ------------------------------------------------------
+
       - name: Setup Node
+
+        # Node.js 실행 환경을 설정한다.
         uses: actions/setup-node@v4
+
         with:
+
+          # 우리가 로컬에서 사용했던 Node 24와 맞춘다.
           node-version: 24
+
+          # npm dependency cache를 사용해 설치 속도를 높인다.
           cache: npm
 
+
+      # ------------------------------------------------------
+      # npm 패키지 설치
+      # ------------------------------------------------------
+
       - name: Install dependencies
+
+        # package-lock.json 기준으로
+        # 정확한 dependency 버전을 설치한다.
         run: npm ci
 
-      - name: Build
+
+      # ------------------------------------------------------
+      # Notion → Markdown 동기화
+      # ------------------------------------------------------
+
+      - name: Sync Notion posts
+
+        # GitHub Secrets를 환경변수로 전달한다.
+        env:
+
+          # Notion Connection Access Token
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+
+          # Blog Data Source ID
+          NOTION_DATA_SOURCE_ID: ${{ secrets.NOTION_DATA_SOURCE_ID }}
+
+        # 우리가 만든 동기화 프로그램 실행
+        run: node scripts/sync-notion.mjs
+
+
+      # ------------------------------------------------------
+      # 동기화된 Markdown을 GitHub에 저장
+      # ------------------------------------------------------
+
+      - name: Commit synced posts
+
+        run: |
+
+          # GitHub Actions가 생성하는 commit의 작성자 정보 설정
+          git config user.name "notion-blog-bot"
+          git config user.email "actions@github.com"
+
+
+          # content/posts 안의
+          # 생성/수정/삭제 파일을 모두 Git staging에 추가
+          git add content/posts
+
+
+          # 변경된 파일이 없다면 commit하지 않고 종료
+          if git diff --cached --quiet; then
+
+            echo "변경된 Notion 글이 없습니다."
+
+          else
+
+            # 변경사항이 있으면 자동 commit 생성
+            git commit -m "Sync Notion posts"
+
+
+            # 현재 main 브랜치로 자동 push
+            git push
+
+          fi
+
+
+      # ------------------------------------------------------
+      # Next.js 정적 사이트 빌드
+      # ------------------------------------------------------
+
+      - name: Build Next.js
+
+        # next.config.ts의 output: "export" 설정에 의해
+        # 최종 정적 사이트가 out/ 폴더에 생성된다.
         run: npm run build
 
+
+      # ------------------------------------------------------
+      # GitHub Pages 설정
+      # ------------------------------------------------------
+
       - name: Setup Pages
+
+        # GitHub Pages 배포 환경 설정
         uses: actions/configure-pages@v5
 
-      - name: Upload artifact
+
+      # ------------------------------------------------------
+      # out 폴더 업로드
+      # ------------------------------------------------------
+
+      - name: Upload Pages artifact
+
+        # GitHub Pages가 배포할 정적 파일을 업로드한다.
         uses: actions/upload-pages-artifact@v3
+
         with:
+
+          # Next.js static export 결과
           path: ./out
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
-    runs-on: ubuntu-latest
+  # ==========================================================
+  # 2. GitHub Pages 실제 배포
+  # ==========================================================
+
+  deploy:
+
+    # build가 성공한 뒤에만 실행한다.
     needs: build
 
+    # GitHub Pages 공식 Environment
+    environment:
+
+      # GitHub Pages environment 이름
+      name: github-pages
+
+      # 배포 완료 후 생성된 URL을 등록
+      url: ${{ steps.deployment.outputs.page_url }}
+
+
+    # Ubuntu 서버에서 실행
+    runs-on: ubuntu-latest
+
+
     steps:
-      - name: Deploy
+
+      # ------------------------------------------------------
+      # GitHub Pages 배포
+      # ------------------------------------------------------
+
+      - name: Deploy GitHub Pages
+
+        # 아래에서 page_url을 가져오기 위해 ID 지정
         id: deployment
+
+        # 앞에서 업로드한 out/ artifact를 실제 Pages로 배포
         uses: actions/deploy-pages@v4
