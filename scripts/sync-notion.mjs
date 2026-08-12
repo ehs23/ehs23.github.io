@@ -123,8 +123,10 @@ function getSlug(page) {
   // "/"나 "\"는 파일 경로 문제가 생길 수 있으므로 "-"로 바꾼다.
   return slug
     .trim()
-    .replace(/\s+/g, "-")
-    .replace(/[\\/]/g, "-");
+    .normalize("NFKC")
+    .toLowerCase()
+    .replace(/[^\p{Letter}\p{Number}]+/gu, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
 
@@ -150,7 +152,7 @@ function getDate(page) {
     property.type === "date" &&
     property.date?.start
   ) {
-    return property.date.start;
+    return property.date.start.slice(0, 10);
   }
 
   // Date를 입력하지 않았다면
@@ -189,42 +191,116 @@ function getTypes(page) {
 }
 
 // ============================================================
-// 6. 이전에 Notion이 자동 생성했던 파일 삭제
+// 6. 이전 동기화 기록과 파일을 안전하게 관리
 // ============================================================
 
-async function removePreviouslyGeneratedPosts() {
+async function readPreviousManifest() {
   try {
-    // 이전 sync 결과 파일을 읽는다.
     const manifestText = await fs.readFile(
       manifestPath,
       "utf8"
     );
-
     const manifest = JSON.parse(manifestText);
 
-    // 예전에 생성했던 Markdown 파일을 하나씩 삭제한다.
-    for (const fileName of manifest.files ?? []) {
-      // 파일 이름만 가져와서
-      // 상위 경로로 빠져나가는 문제를 막는다.
-      const safeFileName = path.basename(fileName);
-
-      const filePath = path.join(
-        postsDirectory,
-        safeFileName
+    if (!Array.isArray(manifest.files)) {
+      throw new Error(
+        ".notion-sync.json의 files가 배열이 아닙니다."
       );
+    }
 
-      // 파일이 없어도 오류 없이 넘어간다.
-      await fs.rm(filePath, {
+    const files = manifest.files.map((fileName) => {
+      if (
+        typeof fileName !== "string" ||
+        path.basename(fileName) !== fileName ||
+        !fileName.endsWith(".md")
+      ) {
+        throw new Error(
+          `.notion-sync.json에 잘못된 파일명이 있습니다: ${String(fileName)}`
+        );
+      }
+
+      return fileName;
+    });
+
+    return { files };
+  } catch (error) {
+    if (error.code === "ENOENT") {
+      return { files: [] };
+    }
+
+    throw error;
+  }
+}
+
+
+// 파일이 없으면 null, 있으면 현재 내용을 반환한다.
+async function readTextIfExists(filePath) {
+  try {
+    return await fs.readFile(filePath, "utf8");
+  } catch (error) {
+    if (error.code === "ENOENT") {
+      return null;
+    }
+
+    throw error;
+  }
+}
+
+
+// 내용이 실제로 달라졌을 때만 임시 파일을 거쳐 교체한다.
+async function writeTextIfChanged(filePath, contents) {
+  const currentContents = await readTextIfExists(filePath);
+
+  if (currentContents === contents) {
+    return false;
+  }
+
+  const temporaryPath = `${filePath}.${process.pid}.tmp`;
+
+  try {
+    await fs.writeFile(temporaryPath, contents, "utf8");
+    await fs.rename(temporaryPath, filePath);
+  } catch (error) {
+    await fs.rm(temporaryPath, { force: true });
+    throw error;
+  }
+
+  return true;
+}
+
+
+// 모든 Notion 변환이 성공한 뒤에만 파일 생성/수정/삭제를 적용한다.
+async function applyGeneratedPosts(generatedPosts) {
+  const previousManifest = await readPreviousManifest();
+  const generatedFiles = [...generatedPosts.keys()].sort();
+
+  for (const fileName of generatedFiles) {
+    const filePath = path.join(postsDirectory, fileName);
+    const fileContents = generatedPosts.get(fileName);
+
+    await writeTextIfChanged(filePath, fileContents);
+  }
+
+  // 현재 Notion에 없는 예전 자동 생성 글만 마지막에 제거한다.
+  for (const fileName of previousManifest.files) {
+    if (!generatedPosts.has(fileName)) {
+      await fs.rm(path.join(postsDirectory, fileName), {
         force: true,
       });
     }
-  } catch (error) {
-    // 처음 실행하면 manifest 자체가 없기 때문에
-    // 오류가 나도 그냥 넘어간다.
-    if (error.code !== "ENOENT") {
-      throw error;
-    }
   }
+
+  // 시간값을 넣지 않아 내용이 같으면 쓸데없는 커밋이 생기지 않는다.
+  const manifestContents = `${JSON.stringify(
+    { files: generatedFiles },
+    null,
+    2
+  )}\n`;
+
+  await writeTextIfChanged(
+    manifestPath,
+    manifestContents
+  );
 }
 
 
@@ -294,14 +370,8 @@ async function syncNotionPosts() {
   });
 
 
-  // 이전에 Notion에서 만든 파일들을 제거한다.
-  //
-  // 우리가 직접 만든 hello-world.md 같은 파일은
-  // manifest에 들어있지 않기 때문에 삭제되지 않는다.
-  await removePreviouslyGeneratedPosts();
-
-
   // Published = true인 글들을 가져온다.
+  // 조회나 변환이 실패해도 기존 파일은 그대로 유지된다.
   const pages = await getPublishedPages();
 
   console.log(
@@ -311,8 +381,8 @@ async function syncNotionPosts() {
   console.log("");
 
 
-  // 이번 실행에서 만들어진 파일들을 기록한다.
-  const generatedFiles = [];
+  // 모든 글을 메모리에 준비한 다음 한 번에 반영한다.
+  const generatedPosts = new Map();
 
 
   // ==========================================================
@@ -323,7 +393,9 @@ async function syncNotionPosts() {
 
     // API 결과가 실제 Page 객체인지 확인한다.
     if (!isFullPage(result)) {
-      continue;
+      throw new Error(
+        "Notion에서 완전한 Page 데이터를 받지 못했습니다."
+      );
     }
 
 
@@ -339,13 +411,18 @@ async function syncNotionPosts() {
     const types = getTypes(result);
 
 
-    // Slug가 없으면 파일 이름을 만들 수 없으므로 건너뛴다.
-    if (!slug) {
-      console.warn(
-        `⚠️ Slug가 없어서 건너뜀: ${title}`
+    if (!title) {
+      throw new Error(
+        `Published 글에 Title이 없습니다: ${result.id}`
       );
+    }
 
-      continue;
+
+    // Slug가 없으면 기존 글을 잘못 삭제하지 않도록 동기화를 중단한다.
+    if (!slug) {
+      throw new Error(
+        `Published 글에 Slug가 없습니다: ${title}`
+      );
     }
 
 
@@ -364,10 +441,10 @@ async function syncNotionPosts() {
     const markdownBody = markdownResponse.markdown;
 
 
-    // 아주 큰 페이지라서 일부 내용이 잘렸다면 경고한다.
+    // 잘린 본문으로 기존의 정상 글을 덮어쓰지 않는다.
     if (markdownResponse.truncated) {
-      console.warn(
-        `⚠️ 내용이 일부 잘렸을 수 있습니다: ${title}`
+      throw new Error(
+        `Notion 본문이 잘려 동기화를 중단합니다: ${title}`
       );
     }
 
@@ -412,22 +489,16 @@ async function syncNotionPosts() {
     const fileName = `${slug}.md`;
 
 
-    const filePath = path.join(
-      postsDirectory,
-      fileName
-    );
+    // 같은 Slug를 가진 글이 여러 개면 마지막 글로 덮어쓰지 않는다.
+    if (generatedPosts.has(fileName)) {
+      throw new Error(
+        `중복 Slug가 있습니다: ${slug}`
+      );
+    }
 
 
-    // Markdown 파일 생성
-    await fs.writeFile(
-      filePath,
-      fileContents,
-      "utf8"
-    );
-
-
-    // manifest에 기록
-    generatedFiles.push(fileName);
+    // 아직 디스크를 수정하지 않고 생성 예정 목록에만 보관한다.
+    generatedPosts.set(fileName, fileContents);
 
 
     console.log(
@@ -440,28 +511,8 @@ async function syncNotionPosts() {
   }
 
 
-  // ==========================================================
-  // 9. 이번에 생성한 파일 목록 저장
-  // ==========================================================
-
-  await fs.writeFile(
-    manifestPath,
-
-    JSON.stringify(
-      {
-        files: generatedFiles,
-
-        // 마지막 동기화 시간
-        syncedAt: new Date().toISOString(),
-      },
-
-      null,
-
-      2
-    ),
-
-    "utf8"
-  );
+  // 모든 API 조회와 Markdown 변환이 끝난 뒤에만 실제 파일을 바꾼다.
+  await applyGeneratedPosts(generatedPosts);
 
 
   console.log("");

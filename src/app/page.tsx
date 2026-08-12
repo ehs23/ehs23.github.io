@@ -1,8 +1,16 @@
+import type { Metadata } from "next";
+
 // 모든 Markdown 게시글을 가져오는 함수
 import { getAllPosts } from "@/lib/posts";
 
 // 방금 만든 게시글 목록 컴포넌트
 import PostFeed from "@/components/PostFeed";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+};
 
 
 export default function HomePage() {

@@ -50,7 +50,7 @@ export default function PostFeed({
 
               <span>·</span>
 
-              <time>
+              <time dateTime={post.date}>
                 {formatDate(post.date)}
               </time>
 

@@ -1,8 +1,18 @@
+import type { Metadata } from "next";
+
 // 전체 게시글 목록을 가져온다.
 import { getAllPosts } from "@/lib/posts";
 
 // 메인 페이지와 동일한 피드를 사용한다.
 import PostFeed from "@/components/PostFeed";
+
+export const metadata: Metadata = {
+  title: "Blog",
+  description: "개발과 공부 기록을 모아둔 공간입니다.",
+  alternates: {
+    canonical: "/blog/",
+  },
+};
 
 
 export default function BlogPage() {

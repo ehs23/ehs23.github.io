@@ -26,34 +26,16 @@ on:
 
 
 # ============================================================
-# GitHub Actions 권한
-# ============================================================
-
-permissions:
-
-  # Notion에서 생성된 Markdown을
-  # GitHub 저장소에 commit/push하기 위해 필요하다.
-  contents: write
-
-  # GitHub Pages에 배포하기 위한 권한
-  pages: write
-
-  # GitHub Pages 배포 인증에 필요
-  id-token: write
-
-
-# ============================================================
 # 동시에 여러 배포가 실행되는 것을 방지
 # ============================================================
 
 concurrency:
 
   # 모든 Pages 배포를 같은 그룹으로 묶는다.
-  group: pages
+  group: notion-pages-${{ github.ref }}
 
-  # 새로운 실행이 시작되면
-  # 아직 끝나지 않은 이전 배포는 취소한다.
-  cancel-in-progress: true
+  # 동기화 커밋 중간에 실행을 취소하지 않고 순서대로 처리한다.
+  cancel-in-progress: false
 
 
 # ============================================================
@@ -72,6 +54,14 @@ jobs:
     # GitHub에서 제공하는 Ubuntu 환경 사용
     runs-on: ubuntu-latest
 
+    # 동기화와 Pages 설정에 필요한 권한만 이 작업에 부여한다.
+    permissions:
+      contents: write
+      pages: write
+
+    outputs:
+      should_deploy: ${{ steps.commit.outputs.should_deploy }}
+
     steps:
 
 
@@ -82,7 +72,11 @@ jobs:
       - name: Checkout
 
         # 현재 저장소의 코드를 GitHub Actions 서버로 가져온다.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+
+        with:
+          # 동기화 커밋을 최신 main 위로 안전하게 rebase할 수 있게 한다.
+          fetch-depth: 0
 
 
       # ------------------------------------------------------
@@ -92,7 +86,7 @@ jobs:
       - name: Setup Node
 
         # Node.js 실행 환경을 설정한다.
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
 
         with:
 
@@ -139,6 +133,8 @@ jobs:
 
       - name: Commit synced posts
 
+        id: commit
+
         run: |
 
           # GitHub Actions가 생성하는 commit의 작성자 정보 설정
@@ -156,14 +152,26 @@ jobs:
 
             echo "변경된 Notion 글이 없습니다."
 
+            # 예약 실행에서 글이 그대로라면 빌드와 재배포도 생략한다.
+            if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+              echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "should_deploy=true" >> "$GITHUB_OUTPUT"
+            fi
+
           else
 
             # 변경사항이 있으면 자동 commit 생성
             git commit -m "Sync Notion posts"
 
 
+            # 실행 중 main이 바뀌었을 수 있으므로 최신 커밋 위로 정리한다.
+            git pull --rebase origin main
+
             # 현재 main 브랜치로 자동 push
-            git push
+            git push origin HEAD:main
+
+            echo "should_deploy=true" >> "$GITHUB_OUTPUT"
 
           fi
 
@@ -173,6 +181,8 @@ jobs:
       # ------------------------------------------------------
 
       - name: Build Next.js
+
+        if: steps.commit.outputs.should_deploy == 'true'
 
         # next.config.ts의 output: "export" 설정에 의해
         # 최종 정적 사이트가 out/ 폴더에 생성된다.
@@ -185,8 +195,10 @@ jobs:
 
       - name: Setup Pages
 
+        if: steps.commit.outputs.should_deploy == 'true'
+
         # GitHub Pages 배포 환경 설정
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
 
       # ------------------------------------------------------
@@ -195,8 +207,10 @@ jobs:
 
       - name: Upload Pages artifact
 
+        if: steps.commit.outputs.should_deploy == 'true'
+
         # GitHub Pages가 배포할 정적 파일을 업로드한다.
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
 
         with:
 
@@ -212,6 +226,15 @@ jobs:
 
     # build가 성공한 뒤에만 실행한다.
     needs: build
+
+    # 예약 동기화에 변경이 없으면 배포 작업 자체를 건너뛴다.
+    if: needs.build.outputs.should_deploy == 'true'
+
+    # 실제 Pages 배포에 필요한 최소 권한만 부여한다.
+    permissions:
+      actions: read
+      pages: write
+      id-token: write
 
     # GitHub Pages 공식 Environment
     environment:

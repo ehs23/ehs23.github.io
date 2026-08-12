@@ -1,6 +1,9 @@
 // 홈으로 돌아가기 위한 Link
 import Link from "next/link";
 
+// 게시글별 검색/공유 메타데이터 타입
+import type { Metadata } from "next";
+
 // Markdown 본문을 React 화면으로 변환
 import ReactMarkdown from "react-markdown";
 
@@ -9,6 +12,12 @@ import {
   getAllPosts,
   getPost,
 } from "@/lib/posts";
+
+type PostPageProps = {
+  params: Promise<{
+    slug: string;
+  }>;
+};
 
 
 // ----------------------------------------------------------
@@ -34,6 +43,38 @@ export function generateStaticParams() {
 }
 
 
+// 제목과 설명을 각 게시글의 <head>에 정적으로 넣는다.
+export async function generateMetadata({
+  params,
+}: PostPageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const post = getPost(slug);
+  const canonicalPath = `/blog/${post.slug}/`;
+
+  return {
+    title: post.title,
+    description: post.description,
+    alternates: {
+      canonical: canonicalPath,
+    },
+    openGraph: {
+      type: "article",
+      locale: "ko_KR",
+      title: post.title,
+      description: post.description,
+      url: canonicalPath,
+      publishedTime: post.date,
+      tags: post.tags,
+    },
+    twitter: {
+      card: "summary",
+      title: post.title,
+      description: post.description,
+    },
+  };
+}
+
+
 // 날짜 표시용 함수
 function formatDate(date: string) {
 
@@ -52,12 +93,7 @@ function formatDate(date: string) {
 
 export default async function PostPage({
   params,
-}: {
-  // Next.js 16의 Dynamic Route params
-  params: Promise<{
-    slug: string;
-  }>;
-}) {
+}: PostPageProps) {
 
   // URL에서 slug를 가져온다.
   const { slug } = await params;
@@ -148,7 +184,7 @@ export default async function PostPage({
 
             <div className="property-value property-tags">
 
-              {post.tags.map((tag: string) => (
+              {post.tags.map((tag) => (
                 <span
                   key={tag}
                   className="notion-tag"
@@ -170,7 +206,7 @@ export default async function PostPage({
             </div>
 
             <div className="property-value property-tags">
-              {post.types.map((type: string) => (
+              {post.types.map((type) => (
                 <span
                   key={type}
                   className="notion-tag"
