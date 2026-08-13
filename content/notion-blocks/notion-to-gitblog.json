@@ -1,0 +1,762 @@
+[
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80d7-80e1-e3c4eda66952",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:25:00.000Z",
+    "last_edited_time": "2026-08-13T06:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "문득 블로그 비스무리한 걸 만들고 싶다는 생각이 들었습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "문득 블로그 비스무리한 걸 만들고 싶다는 생각이 들었습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-803d-8d91-c35059d77ecd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:24:00.000Z",
+    "last_edited_time": "2026-08-13T06:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "평소에 노션을 잘 쓰는데 자유로운 공개가 어려웠습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "평소에 노션을 잘 쓰는데 자유로운 공개가 어려웠습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80c8-9dac-d3ed0435ca5a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:25:00.000Z",
+    "last_edited_time": "2026-08-13T06:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "노션 비슷하게 블로그를 쓰는 방법을 찾아보다가 깃페이지를 이용해 노션 내용을 그대로 옮길 수 있는 기능을 발견했습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "노션 비슷하게 블로그를 쓰는 방법을 찾아보다가 깃페이지를 이용해 노션 내용을 그대로 옮길 수 있는 기능을 발견했습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-802a-8f15-e94de7d0d04a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:43:00.000Z",
+    "last_edited_time": "2026-08-13T06:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "블로그 페이지를 제가 직접 만들어 노션과 동기화를 통해 글을 자동으로 작동해주는 기능이었습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "블로그 페이지를 제가 직접 만들어 노션과 동기화를 통해 글을 자동으로 작동해주는 기능이었습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80a3-9e19-eb055fd77099",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:26:00.000Z",
+    "last_edited_time": "2026-08-13T06:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작동 방식",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작동 방식",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80fa-a263-c94769b4ef9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:28:00.000Z",
+    "last_edited_time": "2026-08-13T06:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Notion\n│\n│ 글 작성\n▼\nNotion API\n│\n▼\nGitHub Actions\n│\n├── Notion → MDX 변환\n│\n├── Git commit\n│\n└── Next.js build\n│\n▼\nGitHub Pages\n│\n▼\nhttps://ehs23.github.io",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Notion\n│\n│ 글 작성\n▼\nNotion API\n│\n▼\nGitHub Actions\n│\n├── Notion → MDX 변환\n│\n├── Git commit\n│\n└── Next.js build\n│\n▼\nGitHub Pages\n│\n▼\nhttps://ehs23.github.io",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "gray_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-807c-bd3c-e96635b6f7aa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:28:00.000Z",
+    "last_edited_time": "2026-08-13T06:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "개발 과정",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "개발 과정",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80a4-86a7-ede789dd52b2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:36:00.000Z",
+    "last_edited_time": "2026-08-13T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "먼저 깃허브에 저장소를 만든 뒤, 로컬에서 깃허브 관련 테스트와 깃허브 블로그 초안을 만들었습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "먼저 깃허브에 저장소를 만든 뒤, 로컬에서 깃허브 관련 테스트와 깃허브 블로그 초안을 만들었습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-809f-89c2-d0b248d83994",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:39:00.000Z",
+    "last_edited_time": "2026-08-13T06:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/notion-to-gitblog/b805d8ef294e4ee42ee7.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80af-89f3-ec92abf63c1d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:39:00.000Z",
+    "last_edited_time": "2026-08-13T06:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-Github Repository",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-Github Repository",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-8019-9a77-c4cdef376a59",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:39:00.000Z",
+    "last_edited_time": "2026-08-13T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "그 후 Notion API를 통해 제 노션 데이터베이스에 있는 글을 불러와 로컬 디렉토리에 기록하고 직접 깃허브에 커밋을 해가며 블로그가 잘 작동하는지 확인했습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "그 후 Notion API를 통해 제 노션 데이터베이스에 있는 글을 불러와 로컬 디렉토리에 기록하고 직접 깃허브에 커밋을 해가며 블로그가 잘 작동하는지 확인했습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80b6-9e9a-c334876d9809",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:42:00.000Z",
+    "last_edited_time": "2026-08-13T06:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "동기화가 잘 된 것을 확인한 후 깃허브에 있는 자동 동기화 기능을 통해 로컬에서 동기화 파일을 만들어 자동 업로드 기능을 추가했습니다. 이제 노션에 글만 쓰면 직접 관리하지 않아도 제 블로그에 자동으로 글이 올라갑니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "동기화가 잘 된 것을 확인한 후 깃허브에 있는 자동 동기화 기능을 통해 로컬에서 동기화 파일을 만들어 자동 업로드 기능을 추가했습니다. 이제 노션에 글만 쓰면 직접 관리하지 않아도 제 블로그에 자동으로 글이 올라갑니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-8074-a218-eb7995e45fac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:50:00.000Z",
+    "last_edited_time": "2026-08-13T06:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/notion-to-gitblog/0db163b964537da99304.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80cd-9e10-f45d316224bf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:50:00.000Z",
+    "last_edited_time": "2026-08-13T06:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-vscode 로컬 작업 환경과 노션 동기화 기록 파일",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-vscode 로컬 작업 환경과 노션 동기화 기록 파일",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-8002-b784-d3555896a2a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:47:00.000Z",
+    "last_edited_time": "2026-08-13T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "마지막으로 페이지 디자인을 완성했습니다. 홈 화면은 티스토리 메인 홈과 유사하게 만들었으며 페이지는 노션과 비슷하게 만들었습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "마지막으로 페이지 디자인을 완성했습니다. 홈 화면은 티스토리 메인 홈과 유사하게 만들었으며 페이지는 노션과 비슷하게 만들었습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-8097-965b-d64c406af1b7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:52:00.000Z",
+    "last_edited_time": "2026-08-13T06:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작업 후기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작업 후기",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80be-b354-c9dbc7e22d14",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:52:00.000Z",
+    "last_edited_time": "2026-08-13T06:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "그냥 제가 원하는 걸 GPT와 함께 구현을 했을뿐인데 정말 재밌었습니다. 제가 왜 어릴때부터 컴소를 선택했는지 다시 알게 되는 기분이었습니다. 구현 과정에서 vite 및 react 등이 계속 오류를 일으키는 등 여러모로 어려운 점도 있었지만 해결 방법을 알고 나니까 지금은 능숙하게 해결해나갑니다. 총 제작 시간은 4시간으로 비교적 단시간에 제작했습니다. 그럼에도 좋은 결과물이 나와 만족스럽습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "그냥 제가 원하는 걸 GPT와 함께 구현을 했을뿐인데 정말 재밌었습니다. 제가 왜 어릴때부터 컴소를 선택했는지 다시 알게 되는 기분이었습니다. 구현 과정에서 vite 및 react 등이 계속 오류를 일으키는 등 여러모로 어려운 점도 있었지만 해결 방법을 알고 나니까 지금은 능숙하게 해결해나갑니다. 총 제작 시간은 4시간으로 비교적 단시간에 제작했습니다. 그럼에도 좋은 결과물이 나와 만족스럽습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-8095-9a54-e7b06494d340",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-80cc-a0f3-ce8383ad42b5"
+    },
+    "created_time": "2026-08-13T06:57:00.000Z",
+    "last_edited_time": "2026-08-13T06:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "다 만들고 기록을 적다보니 과정의 90퍼는 생략되어있습니다. 그래서 앞으론 더 많이 적을 것이냐 물어본다면 솔직히 이후에도 이와 비슷하게 적을 것 같습니다. 기록을 적는 것은 본인이 하고 싶게끔 해야 하는데 많이 적을 수록 제가 적기 싫어할 것이 분명하기 때문입니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "다 만들고 기록을 적다보니 과정의 90퍼는 생략되어있습니다. 그래서 앞으론 더 많이 적을 것이냐 물어본다면 솔직히 이후에도 이와 비슷하게 적을 것 같습니다. 기록을 적는 것은 본인이 하고 싶게끔 해야 하는데 많이 적을 수록 제가 적기 싫어할 것이 분명하기 때문입니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]

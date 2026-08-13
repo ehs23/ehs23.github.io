@@ -653,6 +653,62 @@ a {
 
 
 
+/* 표 */
+
+.markdown-body table {
+  display: block;
+
+  width: max-content;
+
+  min-width: 100%;
+
+  overflow-x: auto;
+
+  margin: 26px 0;
+
+  border-spacing: 0;
+
+  border-collapse: collapse;
+}
+
+
+.markdown-body th,
+.markdown-body td {
+  min-width: 120px;
+
+  padding: 10px 13px;
+
+  border: 1px solid #dededb;
+
+  text-align: left;
+
+  vertical-align: top;
+}
+
+
+.markdown-body th {
+  background: #f7f7f5;
+
+  font-weight: 650;
+}
+
+
+
+/* Notion 체크박스 목록 */
+
+.markdown-body .task-list-item {
+  list-style: none;
+}
+
+
+.markdown-body .task-list-item input {
+  margin: 0 8px 0 -21px;
+
+  accent-color: #37352f;
+}
+
+
+
 /* 이미지 */
 
 .markdown-body img {
@@ -685,10 +741,326 @@ a {
 
 
 /* =========================================================
+   Notion 공식 Block API 렌더러
+   ========================================================= */
+
+.notion-block-body h4 {
+  margin: 32px 0 12px;
+
+  font-size: 17px;
+
+  line-height: 1.5;
+}
+
+
+.notion-block-body figcaption {
+  margin-top: 8px;
+
+  color: #787774;
+
+  font-size: 13px;
+
+  line-height: 1.55;
+
+  text-align: center;
+}
+
+
+.notion-empty-block {
+  height: 18px;
+}
+
+
+.notion-block-children {
+  margin-left: 24px;
+}
+
+
+.notion-callout {
+  display: grid;
+
+  grid-template-columns: 24px minmax(0, 1fr);
+
+  gap: 10px;
+
+  margin: 22px 0;
+
+  padding: 16px;
+
+  border-radius: 5px;
+
+  background: #f7f7f5;
+}
+
+
+.notion-callout p {
+  margin-bottom: 0;
+}
+
+
+.notion-callout-icon {
+  font-size: 19px;
+
+  line-height: 1.5;
+}
+
+
+.markdown-body img.notion-block-icon {
+  display: inline-block;
+
+  width: 20px;
+
+  height: 20px;
+
+  margin: 0 7px 0 0;
+
+  border-radius: 3px;
+
+  vertical-align: -4px;
+}
+
+
+.notion-to-do {
+  display: grid;
+
+  grid-template-columns: 20px minmax(0, 1fr);
+
+  gap: 7px;
+
+  margin: 7px 0;
+}
+
+
+.notion-to-do input {
+  width: 16px;
+
+  height: 16px;
+
+  margin-top: 6px;
+
+  accent-color: #37352f;
+}
+
+
+.notion-toggle {
+  margin: 12px 0;
+}
+
+
+.notion-toggle > summary {
+  cursor: pointer;
+}
+
+
+.notion-heading-toggle > summary h1,
+.notion-heading-toggle > summary h2,
+.notion-heading-toggle > summary h3,
+.notion-heading-toggle > summary h4 {
+  display: inline-block;
+
+  margin: 0 0 8px 5px;
+}
+
+
+.notion-code {
+  margin: 25px 0;
+}
+
+
+.notion-code pre {
+  margin-bottom: 0;
+}
+
+
+.notion-equation {
+  overflow-x: auto;
+
+  margin: 22px 0;
+
+  text-align: center;
+}
+
+
+.notion-image,
+.notion-media {
+  margin: 28px 0;
+}
+
+
+.notion-image img {
+  margin-top: 0;
+
+  margin-bottom: 0;
+}
+
+
+.notion-media video,
+.notion-media audio {
+  display: block;
+
+  width: 100%;
+
+  max-width: 100%;
+
+  margin: 0 auto;
+}
+
+
+.notion-file,
+.notion-bookmark,
+.notion-page-reference {
+  display: block;
+
+  margin: 14px 0;
+
+  padding: 13px 15px;
+
+  border: 1px solid #e3e3e0;
+
+  border-radius: 4px;
+}
+
+
+.notion-bookmark {
+  text-decoration: none !important;
+}
+
+
+.notion-bookmark span {
+  display: block;
+
+  overflow: hidden;
+
+  margin-top: 3px;
+
+  color: #787774;
+
+  font-size: 12px;
+
+  text-overflow: ellipsis;
+
+  white-space: nowrap;
+}
+
+
+.notion-table-scroll {
+  overflow-x: auto;
+
+  margin: 26px 0;
+}
+
+
+.notion-table-scroll table {
+  display: table;
+
+  width: 100%;
+
+  min-width: max-content;
+
+  margin: 0;
+}
+
+
+.notion-columns {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 28px;
+
+  margin: 18px 0;
+}
+
+
+.notion-column {
+  min-width: 0;
+}
+
+
+.notion-column > .notion-block-children,
+.notion-callout-content > .notion-block-children {
+  margin-left: 0;
+}
+
+
+.notion-table-of-contents {
+  display: grid;
+
+  gap: 4px;
+
+  margin: 22px 0;
+}
+
+
+.notion-table-of-contents a {
+  color: #787774;
+
+  font-size: 14px;
+
+  text-decoration: none;
+}
+
+
+.notion-unsupported {
+  margin: 18px 0;
+
+  padding: 12px 14px;
+
+  border: 1px dashed #c7c7c4;
+
+  border-radius: 4px;
+
+  color: #787774;
+
+  font-size: 13px;
+}
+
+
+.notion-list-letters {
+  list-style-type: lower-alpha;
+}
+
+
+.notion-list-roman {
+  list-style-type: lower-roman;
+}
+
+
+.notion-color-gray { color: #787774; }
+.notion-color-brown { color: #9f6b53; }
+.notion-color-orange { color: #d9730d; }
+.notion-color-yellow { color: #cb912f; }
+.notion-color-green { color: #448361; }
+.notion-color-blue { color: #337ea9; }
+.notion-color-purple { color: #9065b0; }
+.notion-color-pink { color: #c14c8a; }
+.notion-color-red { color: #d44c47; }
+.notion-color-gray-background { background: #f1f1ef; }
+.notion-color-brown-background { background: #f4eeee; }
+.notion-color-orange-background { background: #fbecdd; }
+.notion-color-yellow-background { background: #fbf3db; }
+.notion-color-green-background { background: #edf3ec; }
+.notion-color-blue-background { background: #e7f3f8; }
+.notion-color-purple-background { background: #f4f0f7; }
+.notion-color-pink-background { background: #f9eef3; }
+.notion-color-red-background { background: #fdebec; }
+
+
+
+/* =========================================================
    모바일 반응형
    ========================================================= */
 
 @media (max-width: 680px) {
+
+  .notion-columns {
+    display: block;
+  }
+
+
+  .notion-column + .notion-column {
+    margin-top: 18px;
+  }
 
   .home-page {
     width: min(100% - 32px, 960px);

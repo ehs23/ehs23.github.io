@@ -7,6 +7,12 @@ import type { Metadata } from "next";
 // Markdown 본문을 React 화면으로 변환
 import ReactMarkdown from "react-markdown";
 
+// 표와 체크박스 목록 같은 GitHub 방식 Markdown 지원
+import remarkGfm from "remark-gfm";
+
+// Notion 공식 Block API 응답을 블록 종류별로 화면에 표시
+import NotionBlocks from "@/components/NotionBlocks";
+
 // 게시글 데이터 함수
 import {
   getAllPosts,
@@ -227,14 +233,24 @@ export default async function PostPage({
 
 
       {/* --------------------------------------------- */}
-      {/* Markdown 본문 */}
+      {/* Notion 블록 본문 또는 수동 Markdown 본문 */}
       {/* --------------------------------------------- */}
 
-      <article className="markdown-body">
+      <article
+        className={
+          post.notionBlocks
+            ? "markdown-body notion-block-body"
+            : "markdown-body"
+        }
+      >
 
-        <ReactMarkdown>
-          {post.content}
-        </ReactMarkdown>
+        {post.notionBlocks ? (
+          <NotionBlocks blocks={post.notionBlocks} />
+        ) : (
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            {post.content}
+          </ReactMarkdown>
+        )}
 
       </article>
 

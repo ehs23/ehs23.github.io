@@ -1,8 +1,16 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import {
+  isNotionBlockArray,
+  type NotionBlock,
+} from "@/lib/notion-types";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
+const blocksDirectory = path.join(
+  process.cwd(),
+  "content/notion-blocks"
+);
 
 export type Post = {
   slug: string;
@@ -11,10 +19,12 @@ export type Post = {
   description: string;
   tags: string[];
   types: string[];
+  pageId: number | null;
 };
 
 export type PostWithContent = Post & {
   content: string;
+  notionBlocks: NotionBlock[] | null;
 };
 
 // 한 번 읽은 글은 빌드 과정에서 다시 파싱하지 않는다.
@@ -69,6 +79,39 @@ function normalizeStringArray(value: unknown) {
   return [...new Set(values.filter(Boolean))];
 }
 
+function normalizePageId(value: unknown, slug: string) {
+  if (value == null) {
+    return null;
+  }
+
+  if (
+    typeof value !== "number" ||
+    !Number.isFinite(value) ||
+    !Number.isInteger(value)
+  ) {
+    throw new Error(
+      `${slug}.md의 pageId는 정수여야 합니다.`
+    );
+  }
+
+  return value;
+}
+
+function readNotionBlocks(slug: string) {
+  const blockPath = path.join(blocksDirectory, `${slug}.json`);
+  const parsedBlocks: unknown = JSON.parse(
+    fs.readFileSync(blockPath, "utf8")
+  );
+
+  if (!isNotionBlockArray(parsedBlocks)) {
+    throw new Error(
+      `${slug}.json의 Notion 블록 형식이 올바르지 않습니다.`
+    );
+  }
+
+  return parsedBlocks;
+}
+
 function readPost(slug: string): PostWithContent {
   if (
     path.basename(slug) !== slug ||
@@ -88,6 +131,16 @@ function readPost(slug: string): PostWithContent {
   const { data, content } = matter(fileContents);
   const title = requireString(data.title, "title", slug);
   const date = normalizeDate(data.date, slug);
+  const isNotionPost = data.contentFormat === "notion-blocks";
+
+  if (
+    data.contentFormat !== undefined &&
+    !isNotionPost
+  ) {
+    throw new Error(
+      `${slug}.md의 contentFormat을 지원하지 않습니다.`
+    );
+  }
 
   const post: PostWithContent = {
     slug,
@@ -99,7 +152,11 @@ function readPost(slug: string): PostWithContent {
         : "",
     tags: normalizeStringArray(data.tags),
     types: normalizeStringArray(data.types),
+    pageId: normalizePageId(data.pageId, slug),
     content,
+    notionBlocks: isNotionPost
+      ? readNotionBlocks(slug)
+      : null,
   };
 
   postCache.set(slug, post);
@@ -123,10 +180,24 @@ export function getAllPosts(): Post[] {
       description: post.description,
       tags: post.tags,
       types: post.types,
+      pageId: post.pageId,
     };
   });
 
   return posts.sort((a, b) => {
+    // Page ID가 큰 글을 먼저 표시하고, 없는 글은 맨 아래로 보낸다.
+    if (a.pageId !== b.pageId) {
+      if (a.pageId == null) {
+        return 1;
+      }
+
+      if (b.pageId == null) {
+        return -1;
+      }
+
+      return b.pageId - a.pageId;
+    }
+
     const dateDifference = b.date.localeCompare(a.date);
 
     return dateDifference || a.slug.localeCompare(b.slug);
