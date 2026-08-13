@@ -1,0 +1,206 @@
+[
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80a2-9e0d-ce283d9c4d1a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-800b-9088-ccea1c76180c"
+    },
+    "created_time": "2026-08-13T08:51:00.000Z",
+    "last_edited_time": "2026-08-13T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/notiontogit-fix-1/26307ee418e17c4144f9.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-807e-9ef8-c5973c867736",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-800b-9088-ccea1c76180c"
+    },
+    "created_time": "2026-08-13T08:51:00.000Z",
+    "last_edited_time": "2026-08-13T08:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "노션과 형식이 일치하지 않아 생긴 오류를 수정했습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "노션과 형식이 일치하지 않아 생긴 오류를 수정했습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80ee-b40c-f73b8c709966",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-800b-9088-ccea1c76180c"
+    },
+    "created_time": "2026-08-13T08:52:00.000Z",
+    "last_edited_time": "2026-08-13T08:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "페이지가 오래된 것부터 보이는 정렬을 최신순으로 재정렬 했습니다. 이때 방식은 노션 페이지 고유 ID 기능을 통해 정렬했습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "페이지가 오래된 것부터 보이는 정렬을 최신순으로 재정렬 했습니다. 이때 방식은 노션 페이지 고유 ID 기능을 통해 정렬했습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80d4-bcb6-c7ba2c9cfdb7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-800b-9088-ccea1c76180c"
+    },
+    "created_time": "2026-08-13T09:24:00.000Z",
+    "last_edited_time": "2026-08-13T09:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "형식불일치 오류를 새로운 방식으로 수정했습니다. 공식 블록 API를 통해 react 마크다운 하는 기법입니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "형식불일치 오류를 새로운 방식으로 수정했습니다. 공식 블록 API를 통해 react 마크다운 하는 기법입니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bb6d44f-ad1f-80bc-a220-ddee45da19f1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bb6d44f-ad1f-800b-9088-ccea1c76180c"
+    },
+    "created_time": "2026-08-13T14:20:00.000Z",
+    "last_edited_time": "2026-08-13T14:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "오류를 수정하는 과정에서 동기화가 오류가 발생했습니다. json 문법이 깨져서 새로 복구했습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "오류를 수정하는 과정에서 동기화가 오류가 발생했습니다. json 문법이 깨져서 새로 복구했습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]

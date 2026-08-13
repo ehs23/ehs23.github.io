@@ -244,7 +244,7 @@
         {
           "type": "text",
           "text": {
-            "content": "Notion\n│\n│ 글 작성\n▼\nNotion API\n│\n▼\nGitHub Actions\n│\n├── Notion → MDX 변환\n│\n├── Git commit\n│\n└── Next.js build\n│\n▼\nGitHub Pages\n│\n▼\nhttps://ehs23.github.io",
+            "content": "Notion → Notion API → GitHub Actions(Notion → MDX 변환, Git commit, Next.js build) → GitHub Pages → https://ehs23.github.io",
             "link": null
           },
           "annotations": {
@@ -255,7 +255,7 @@
             "code": false,
             "color": "default"
           },
-          "plain_text": "Notion\n│\n│ 글 작성\n▼\nNotion API\n│\n▼\nGitHub Actions\n│\n├── Notion → MDX 변환\n│\n├── Git commit\n│\n└── Next.js build\n│\n▼\nGitHub Pages\n│\n▼\nhttps://ehs23.github.io",
+          "plain_text": "Notion → Notion API → GitHub Actions(Notion → MDX 변환, Git commit, Next.js build) → GitHub Pages → https://ehs23.github.io",
           "href": null
         }
       ],
