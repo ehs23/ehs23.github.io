@@ -2,8 +2,6 @@
   "files": [
     "first-notion-post.md",
     "notion-to-gitblog.md"
-<<<<<<< HEAD
-=======
   ],
   "blockFiles": [
     "first-notion-post.json",
@@ -12,6 +10,5 @@
   "assets": [
     "notion-assets/notion-to-gitblog/0db163b964537da99304.png",
     "notion-assets/notion-to-gitblog/b805d8ef294e4ee42ee7.png"
->>>>>>> 54a7387 (1.0 : page-fix-2)
   ]
 }

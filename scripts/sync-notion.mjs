@@ -203,6 +203,16 @@ async function readPreviousManifest() {
       return { files: [], blockFiles: [], assets: [] };
     }
 
+    // rebase 충돌 표시처럼 JSON 문법이 깨진 경우에도
+    // 기존 게시글을 삭제하지 않고 이번 동기화 결과로 복구한다.
+    if (error instanceof SyntaxError) {
+      console.warn(
+        "⚠️ 손상된 .notion-sync.json을 무시하고 새로 생성합니다."
+      );
+
+      return { files: [], blockFiles: [], assets: [] };
+    }
+
     throw error;
   }
 }
