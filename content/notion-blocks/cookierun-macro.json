@@ -1,0 +1,1354 @@
+[
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8083-9d09-f03fd020525e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:37:00.000Z",
+    "last_edited_time": "2026-08-14T17:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "아이디어 탐색",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "아이디어 탐색",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8069-b4ea-d7d487c4c7a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:42:00.000Z",
+    "last_edited_time": "2026-08-14T17:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "잘때도 돌아가게 만들고 싶었다. 그 이상 이하도 아니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "잘때도 돌아가게 만들고 싶었다. 그 이상 이하도 아니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-808e-b75d-ebbaba679bcb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:43:00.000Z",
+    "last_edited_time": "2026-08-14T17:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "제작 과정",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "제작 과정",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80f9-8504-ef415891fee2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:43:00.000Z",
+    "last_edited_time": "2026-08-14T17:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "사실 가장 처음 만든 프로젝트여서 어떻게 제작했는지 기억이 안난다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "사실 가장 처음 만든 프로젝트여서 어떻게 제작했는지 기억이 안난다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8084-96d5-fd4bac47eb34",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:43:00.000Z",
+    "last_edited_time": "2026-08-14T17:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "사용 기술",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "사용 기술",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:44:00.000Z",
+    "last_edited_time": "2026-08-14T17:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "table",
+    "table": {
+      "table_width": 2,
+      "has_column_header": true,
+      "has_row_header": false
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8054-ad54-e307c4e00617",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "기술",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "기술",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "용도",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "용도",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-809d-b9b7-daa3b631fcd7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Python 3",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Python 3",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "전체 매크로 프로그램 구현",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "전체 매크로 프로그램 구현",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8096-9a54-c9eecfeee951",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "OpenCV (",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "OpenCV (",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "cv2",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": true,
+                  "color": "default"
+                },
+                "plain_text": "cv2",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ")",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ")",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "화면에서 버튼 이미지 탐지",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "화면에서 버튼 이미지 탐지",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8052-92ed-d213fcedfae8",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "NumPy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "NumPy",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "스크린샷/이미지를 배열 형태로 처리",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "스크린샷/이미지를 배열 형태로 처리",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8079-a2b6-df51378099c0",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "PyAutoGUI",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "PyAutoGUI",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "v1에서 화면 캡처 및 실제 마우스 클릭",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "v1에서 화면 캡처 및 실제 마우스 클릭",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8018-b4dd-c7c4d751bd66",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ADB (Android Debug Bridge)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ADB (Android Debug Bridge)",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "v2에서 BlueStacks 화면 캡처 및 터치 입력",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "v2에서 BlueStacks 화면 캡처 및 터치 입력",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8086-a9e6-caa19a1ea7a9",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "subprocess",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "subprocess",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Python에서 ADB 명령 실행",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Python에서 ADB 명령 실행",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-8006-beda-f32678f4800c",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "threading",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "threading",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "여러 BlueStacks 인스턴스를 동시에 제어",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "여러 BlueStacks 인스턴스를 동시에 제어",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-80b3-9017-c31e9e399385",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "dataclass / typing",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "dataclass / typing",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "v2 코드의 데이터 구조 및 타입 관리",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "v2 코드의 데이터 구조 및 타입 관리",
+                "href": null
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bc6d44f-ad1f-80af-b150-efae82f51537",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bc6d44f-ad1f-80e7-84b5-fa684f6e3c4d"
+        },
+        "created_time": "2026-08-14T17:44:00.000Z",
+        "last_edited_time": "2026-08-14T17:44:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "table_row",
+        "table_row": {
+          "cells": [
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Python venv",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Python venv",
+                "href": null
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Python 가상환경 구성",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Python 가상환경 구성",
+                "href": null
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8021-9495-f88c6c025b78",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:45:00.000Z",
+    "last_edited_time": "2026-08-14T17:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작동 과정",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작동 과정",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80c9-aae1-f5dcbc737515",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:45:00.000Z",
+    "last_edited_time": "2026-08-14T17:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 프로그램은 오로지 Python 파일 하나로만 돌아간다. 배포할 수 없으므로 코드 일부만 보여주겠다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 프로그램은 오로지 Python 파일 하나로만 돌아간다. 배포할 수 없으므로 코드 일부만 보여주겠다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8074-abfc-fc59c0414afe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:46:00.000Z",
+    "last_edited_time": "2026-08-14T17:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/cookierun-macro/cb9c42347bf222472f4b.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8053-8232-d663b7675052",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:46:00.000Z",
+    "last_edited_time": "2026-08-14T17:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-매크로 파일 일부",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-매크로 파일 일부",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80d0-bb58-fccf78fac78d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:49:00.000Z",
+    "last_edited_time": "2026-08-14T17:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8090-acdd-d731efd43f1f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:49:00.000Z",
+    "last_edited_time": "2026-08-14T17:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "OpenCV를 통해 쿠키런 화면에서 이미지를 탐지합니다. 그리고 폴더 내에 이미지 파일들 (confirmButton 등)과 매치하여 일치하는 정도를 thredhold로 나타내 설정한 가중치 이상이 된다면 해당 이미지 위치를 중심으로 일정 반경 내에서 랜덤으로 탭하도록 만들었다. 랜덤 탭은 매크로 탐지에 걸리지 않는 방법이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "OpenCV를 통해 쿠키런 화면에서 이미지를 탐지합니다. 그리고 폴더 내에 이미지 파일들 (confirmButton 등)과 매치하여 일치하는 정도를 thredhold로 나타내 설정한 가중치 이상이 된다면 해당 이미지 위치를 중심으로 일정 반경 내에서 랜덤으로 탭하도록 만들었다. 랜덤 탭은 매크로 탐지에 걸리지 않는 방법이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-800c-807c-c2d4fa727a34",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:52:00.000Z",
+    "last_edited_time": "2026-08-14T17:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "블루스택에서 사용했으며 쿠키런은 계정 2개까지 동시에 플레이 할 수 있음을 이용해 멀티창으로 2개를 한꺼번에 돌렸다. 블루스택에는 고급 디버깅 브리징 기능을 지원을 하기 때문에 코드가 각 블루스택에서 따로 돌아가서 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "블루스택에서 사용했으며 쿠키런은 계정 2개까지 동시에 플레이 할 수 있음을 이용해 멀티창으로 2개를 한꺼번에 돌렸다. 블루스택에는 고급 디버깅 브리징 기능을 지원을 하기 때문에 코드가 각 블루스택에서 따로 돌아가서 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "충돌이 일어나지 않는다",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "충돌이 일어나지 않는다",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8040-a2cd-f07827bb135f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:55:00.000Z",
+    "last_edited_time": "2026-08-14T17:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "백그라운드에서 작동되기 때문에 매크로만 켜두고 다른 작업을 해도 아무런 문제가 없다. 단, 노트북 화면을 끈다면 튕기고, 노트북 성능이 좋지 못한다면 심한 렉을 유발한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "백그라운드에서 작동되기 때문에 매크로만 켜두고 다른 작업을 해도 아무런 문제가 없다. 단, 노트북 화면을 끈다면 튕기고, 노트북 성능이 좋지 못한다면 심한 렉을 유발한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80c6-8c90-f3ad14e6566e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:47:00.000Z",
+    "last_edited_time": "2026-08-14T17:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "제작 후기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "제작 후기",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8073-9b34-e2dc8de717e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-80c5-8bf3-e4d129503a48"
+    },
+    "created_time": "2026-08-14T17:47:00.000Z",
+    "last_edited_time": "2026-08-14T17:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "프로그램은 완벽하게 작동하지만 어떠한 외부 사정으로 얼마 안 쓰고 버렸다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "프로그램은 완벽하게 작동하지만 어떠한 외부 사정으로 얼마 안 쓰고 버렸다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]

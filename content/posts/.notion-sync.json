@@ -1,17 +1,20 @@
 {
   "files": [
+    "cookierun-macro.md",
     "first-notion-post.md",
     "notion-to-gitblog.md",
     "notiontogit-fix-1.md",
     "shorts-limiter-development.md"
   ],
   "blockFiles": [
+    "cookierun-macro.json",
     "first-notion-post.json",
     "notion-to-gitblog.json",
     "notiontogit-fix-1.json",
     "shorts-limiter-development.json"
   ],
   "assets": [
+    "notion-assets/cookierun-macro/cb9c42347bf222472f4b.png",
     "notion-assets/notion-to-gitblog/0db163b964537da99304.png",
     "notion-assets/notion-to-gitblog/b805d8ef294e4ee42ee7.png",
     "notion-assets/notiontogit-fix-1/26307ee418e17c4144f9.png",
