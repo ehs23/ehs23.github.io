@@ -2,16 +2,24 @@
   "files": [
     "first-notion-post.md",
     "notion-to-gitblog.md",
-    "notiontogit-fix-1.md"
+    "notiontogit-fix-1.md",
+    "shorts-limiter-development.md"
   ],
   "blockFiles": [
     "first-notion-post.json",
     "notion-to-gitblog.json",
-    "notiontogit-fix-1.json"
+    "notiontogit-fix-1.json",
+    "shorts-limiter-development.json"
   ],
   "assets": [
     "notion-assets/notion-to-gitblog/0db163b964537da99304.png",
     "notion-assets/notion-to-gitblog/b805d8ef294e4ee42ee7.png",
-    "notion-assets/notiontogit-fix-1/26307ee418e17c4144f9.png"
+    "notion-assets/notiontogit-fix-1/26307ee418e17c4144f9.png",
+    "notion-assets/shorts-limiter-development/336baf449ebb6c1b1e83.png",
+    "notion-assets/shorts-limiter-development/74b86e6414d11902c038.zip",
+    "notion-assets/shorts-limiter-development/7532b3afb77b3c15feea.png",
+    "notion-assets/shorts-limiter-development/92f7f69164776e7fe48f.png",
+    "notion-assets/shorts-limiter-development/e9b898bd05a9fdb78fe0.png",
+    "notion-assets/shorts-limiter-development/f5472cd9ef5a3b913ae5.png"
   ]
 }

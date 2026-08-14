@@ -1,0 +1,1243 @@
+[
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80d9-9c94-f8c7406cd3ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:48:00.000Z",
+    "last_edited_time": "2026-08-14T15:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "첨부 파일",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "첨부 파일",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80ad-b8a3-ef39b18eca2c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:52:00.000Z",
+    "last_edited_time": "2026-08-14T16:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "file",
+    "file": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/shorts-limiter-development/74b86e6414d11902c038.zip"
+      },
+      "name": "shorts-limiter.zip"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80dc-9f9c-d9f71ee2afb6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:08:00.000Z",
+    "last_edited_time": "2026-08-14T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이미 파일로 주는 것부터 오픈소스로 배포했다는 것을 알 수 있습니다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이미 파일로 주는 것부터 오픈소스로 배포했다는 것을 알 수 있습니다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80ca-96db-c0b13696946b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:52:00.000Z",
+    "last_edited_time": "2026-08-14T15:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "아이디어",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "아이디어",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8075-81e2-c8be4a8b7c70",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:52:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "숏폼을 볼때마다 짧지만 강한 중독성으로 인해 시간이 순삭 되어버리는 현상이 일어난다. 그것을 막기 위해 설치만 해도 작동하는 숏폼 개수 제한 프로그램을 만들었다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "숏폼을 볼때마다 짧지만 강한 중독성으로 인해 시간이 순삭 되어버리는 현상이 일어난다. 그것을 막기 위해 설치만 해도 작동하는 숏폼 개수 제한 프로그램을 만들었다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80ea-8eea-f6da05710e88",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:54:00.000Z",
+    "last_edited_time": "2026-08-14T15:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작동 방식",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작동 방식",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-807b-af9b-e8c5c6d4e573",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:55:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "확장프로그램을 통해 URL을 탐색한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "확장프로그램을 통해 URL을 탐색한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8063-9f69-dba09ff31775",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:01:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "URL이 쇼츠 또는 릴스 일때 카운트를 센다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "URL이 쇼츠 또는 릴스 일때 카운트를 센다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8066-92c3-d0e732ca5bec",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:02:00.000Z",
+    "last_edited_time": "2026-08-14T16:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "최대 한도 카운트(0~10 설정)에 도달할 때 더 이상 볼 수 없다고 화면이 뜬다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "최대 한도 카운트(0~10 설정)에 도달할 때 더 이상 볼 수 없다고 화면이 뜬다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-804e-8ba3-f13209dee7d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:03:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "다음날이 되면 초기화 된다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "다음날이 되면 초기화 된다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8032-b02f-d82ae3127a54",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:55:00.000Z",
+    "last_edited_time": "2026-08-14T15:55:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "개발 과정",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "개발 과정",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8087-84b7-e2887bfbbc53",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:03:00.000Z",
+    "last_edited_time": "2026-08-14T16:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "먼저 구글 확장 프로그램을 만든다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "먼저 구글 확장 프로그램을 만든다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8076-9aa2-ef18ab229df9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:03:00.000Z",
+    "last_edited_time": "2026-08-14T16:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 사용하는 파일은 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 사용하는 파일은 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "manifest.json",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "manifest.json",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8015-b131-d2bbf9a37bec",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:03:00.000Z",
+    "last_edited_time": "2026-08-14T16:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "{\n  \"manifest_version\": 3,\n  \"name\": \"Shorts Limiter\",\n  \"version\": \"0.6.0\",\n  \"description\": \"Limits YouTube Shorts and Instagram Reels usage.\",\n\n  \"permissions\": [\n    \"storage\"\n  ],\n\n  \"action\": {\n    \"default_title\": \"Shorts Limiter\",\n    \"default_popup\": \"popup.html\"\n  },\n\n  \"background\": {\n    \"service_worker\": \"background.js\"\n  },\n\n  \"content_scripts\": [\n    {\n      \"matches\": [\n        \"https://www.youtube.com/*\"\n      ],\n      \"js\": [\n        \"content.js\"\n      ],\n      \"css\": [\n        \"blocker.css\"\n      ]\n    }\n  ]\n}",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "{\n  \"manifest_version\": 3,\n  \"name\": \"Shorts Limiter\",\n  \"version\": \"0.6.0\",\n  \"description\": \"Limits YouTube Shorts and Instagram Reels usage.\",\n\n  \"permissions\": [\n    \"storage\"\n  ],\n\n  \"action\": {\n    \"default_title\": \"Shorts Limiter\",\n    \"default_popup\": \"popup.html\"\n  },\n\n  \"background\": {\n    \"service_worker\": \"background.js\"\n  },\n\n  \"content_scripts\": [\n    {\n      \"matches\": [\n        \"https://www.youtube.com/*\"\n      ],\n      \"js\": [\n        \"content.js\"\n      ],\n      \"css\": [\n        \"blocker.css\"\n      ]\n    }\n  ]\n}",
+          "href": null
+        }
+      ],
+      "language": "json"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8080-88cf-fbb37741d0ee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T15:52:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 파일만 사용하면 구글 확장 프로그램을 만들 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 파일만 사용하면 구글 확장 프로그램을 만들 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80d0-be37-f6794bd74a58",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:04:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 content_scripts 안에 파일명들이 존재하는 것을 볼 수 있는데, 이 파일들을 통해 프로그램을 구동할 수 있고(content.js) 차단창도 열 수 있다.(blocker.css).",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 content_scripts 안에 파일명들이 존재하는 것을 볼 수 있는데, 이 파일들을 통해 프로그램을 구동할 수 있고(content.js) 차단창도 열 수 있다.(blocker.css).",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-803f-be6e-d8a86bff7cd1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:06:00.000Z",
+    "last_edited_time": "2026-08-14T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 js는 프로그램의 메인이라고 할 수 있으며, 창에 직접 띄워야 하기에 차단은 css를 사용했다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 js는 프로그램의 메인이라고 할 수 있으며, 창에 직접 띄워야 하기에 차단은 css를 사용했다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-800a-9507-c5e53c0f12be",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:14:00.000Z",
+    "last_edited_time": "2026-08-14T16:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80d0-bda0-e3bdcaff9da8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:09:00.000Z",
+    "last_edited_time": "2026-08-14T16:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "나머지는 기능에 맞게 각 파일에 고르게 분배하여 작성했다. 설명하기 귀찮으니 직접 확인해보는 것이 좋을 듯하다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "나머지는 기능에 맞게 각 파일에 고르게 분배하여 작성했다. 설명하기 귀찮으니 직접 확인해보는 것이 좋을 듯하다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-805f-a4ef-dac225539d39",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:15:00.000Z",
+    "last_edited_time": "2026-08-14T16:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "개발 스냅샷",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "개발 스냅샷",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8081-a354-c2c1f2bbed64",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:27:00.000Z",
+    "last_edited_time": "2026-08-14T16:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/shorts-limiter-development/336baf449ebb6c1b1e83.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80a9-8143-de114f16f2bb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:27:00.000Z",
+    "last_edited_time": "2026-08-14T16:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-Extensions창",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-Extensions창",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-800c-a807-fd7eb48b6170",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:15:00.000Z",
+    "last_edited_time": "2026-08-14T16:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/shorts-limiter-development/92f7f69164776e7fe48f.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8043-b145-e687a3422a3e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:15:00.000Z",
+    "last_edited_time": "2026-08-14T16:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-vscode 화면",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-vscode 화면",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8060-be82-f054d45e71f1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:36:00.000Z",
+    "last_edited_time": "2026-08-14T16:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/shorts-limiter-development/7532b3afb77b3c15feea.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-803d-b064-c24406145547",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:36:00.000Z",
+    "last_edited_time": "2026-08-14T16:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-github repository",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-github repository",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-8055-a86b-d2e519a73b3d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:37:00.000Z",
+    "last_edited_time": "2026-08-14T16:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/shorts-limiter-development/f5472cd9ef5a3b913ae5.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80c0-8b00-e3fea59b959e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:37:00.000Z",
+    "last_edited_time": "2026-08-14T16:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-control pad",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-control pad",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-801a-a30e-df6795dd7da6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:23:00.000Z",
+    "last_edited_time": "2026-08-14T16:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/shorts-limiter-development/e9b898bd05a9fdb78fe0.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bc6d44f-ad1f-80b5-b1a3-d6772912bd65",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bc6d44f-ad1f-8093-a2e1-e81ebc95ac0c"
+    },
+    "created_time": "2026-08-14T16:23:00.000Z",
+    "last_edited_time": "2026-08-14T16:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-차단창",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-차단창",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]
