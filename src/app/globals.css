@@ -96,6 +96,28 @@ a {
 
 
 
+.home-header {
+  position: relative;
+  margin-bottom: 72px;
+}
+
+.blog-title-gif {
+  position: absolute;
+
+  /* 본문 왼쪽 경계보다 바깥에 배치 */
+  right: calc(100% + 50px);
+  top: -25px;
+
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+
+  border: 0px solid #292929;
+  border-radius: 16px;
+}
+
+
+
 /* 최근 글 영역 제목 */
 
 .feed-header {
