@@ -2,6 +2,7 @@
   "files": [
     "cookierun-macro.md",
     "first-notion-post.md",
+    "git-init.md",
     "notion-to-gitblog.md",
     "notiontogit-fix-1.md",
     "shorts-limiter-development.md"
@@ -9,6 +10,7 @@
   "blockFiles": [
     "cookierun-macro.json",
     "first-notion-post.json",
+    "git-init.json",
     "notion-to-gitblog.json",
     "notiontogit-fix-1.json",
     "shorts-limiter-development.json"

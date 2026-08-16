@@ -1,0 +1,266 @@
+[
+  {
+    "object": "block",
+    "id": "3bd6d44f-ad1f-807f-92e2-c5cdec49d217",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bd6d44f-ad1f-80be-9198-e0ed34573b9a"
+    },
+    "created_time": "2026-08-15T15:27:00.000Z",
+    "last_edited_time": "2026-08-15T15:27:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "cd 프로젝트폴더경로",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "cd 프로젝트폴더경로",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bd6d44f-ad1f-80e0-9250-cd404f328cff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bd6d44f-ad1f-80be-9198-e0ed34573b9a"
+    },
+    "created_time": "2026-08-15T15:30:00.000Z",
+    "last_edited_time": "2026-08-15T15:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "깃허브와 연결하고 싶은 프로젝트폴더로 이동한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "깃허브와 연결하고 싶은 프로젝트폴더로 이동한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bd6d44f-ad1f-805d-b5e8-d030db7a92b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bd6d44f-ad1f-80be-9198-e0ed34573b9a"
+    },
+    "created_time": "2026-08-15T15:28:00.000Z",
+    "last_edited_time": "2026-08-15T15:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "git init\ngit status\ngit add .\ngit commit -m \"Initial Commit\"",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "git init\ngit status\ngit add .\ngit commit -m \"Initial Commit\"",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bd6d44f-ad1f-8062-ba19-eeb0c8337858",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bd6d44f-ad1f-80be-9198-e0ed34573b9a"
+    },
+    "created_time": "2026-08-15T15:30:00.000Z",
+    "last_edited_time": "2026-08-15T15:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "초기 설정 후 커밋을 만든다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "초기 설정 후 커밋을 만든다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bd6d44f-ad1f-80db-9e13-e532b715071e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bd6d44f-ad1f-80be-9198-e0ed34573b9a"
+    },
+    "created_time": "2026-08-15T15:28:00.000Z",
+    "last_edited_time": "2026-08-15T15:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "git branch -M main\ngit remote add origin repositorySSH\ngit remote -v\ngit push -u origin main",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "git branch -M main\ngit remote add origin repositorySSH\ngit remote -v\ngit push -u origin main",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bd6d44f-ad1f-805c-85b6-efd049b1edac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bd6d44f-ad1f-80be-9198-e0ed34573b9a"
+    },
+    "created_time": "2026-08-15T15:30:00.000Z",
+    "last_edited_time": "2026-08-15T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "메인 브랜치를 설정한 뒤 깃허브 저장소를 로컬 저장소와 연결해 푸시한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "메인 브랜치를 설정한 뒤 깃허브 저장소를 로컬 저장소와 연결해 푸시한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]
