@@ -1,0 +1,2575 @@
+[
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80a7-ab9f-c59c2c309d7c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:08:00.000Z",
+    "last_edited_time": "2026-08-18T18:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작성자의 맥북 사양",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작성자의 맥북 사양",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8092-bdd6-f195cc92961c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:14:00.000Z",
+    "last_edited_time": "2026-08-18T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "사용기간 6년",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "사용기간 6년",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80a7-b7dd-f66865786018",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:11:00.000Z",
+    "last_edited_time": "2026-08-18T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Apple Silicon M1",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Apple Silicon M1",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-800a-aa09-f1454ecd6f80",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:12:00.000Z",
+    "last_edited_time": "2026-08-18T18:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Memory 8 GB",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Memory 8 GB",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8002-b502-d92c3bd8e93a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:12:00.000Z",
+    "last_edited_time": "2026-08-18T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Machintosh HD 256 GB",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Machintosh HD 256 GB",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80fb-9fe4-fb0b63282885",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:14:00.000Z",
+    "last_edited_time": "2026-08-18T18:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "공학인치곤 좋지 못한 성능으로 문서 작업용이라 봐야할 수준을 갖추고 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": true,
+            "underline": false,
+            "code": false,
+            "color": "gray"
+          },
+          "plain_text": "공학인치곤 좋지 못한 성능으로 문서 작업용이라 봐야할 수준을 갖추고 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8018-8a54-f56a713ac134",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:12:00.000Z",
+    "last_edited_time": "2026-08-18T18:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "그 중 Apple Silicon 맥은 ARM CPU이므로 x86이 아니다. 물론 ARM 아키텍처로 배운다면 좋은 환경이지만 필자는 리버싱을 하면서 x86 코드를 다루고 싶기 때문에 방법을 찾아본 바이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "그 중 Apple Silicon 맥은 ARM CPU이므로 x86이 아니다. 물론 ARM 아키텍처로 배운다면 좋은 환경이지만 필자는 리버싱을 하면서 x86 코드를 다루고 싶기 때문에 방법을 찾아본 바이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80f8-9dd6-d86cfbdde6c8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:17:00.000Z",
+    "last_edited_time": "2026-08-18T18:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Apple Silicon 환경에서 x86_64 사용하기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Apple Silicon 환경에서 x86_64 사용하기",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80de-8720-df9556c85bff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:17:00.000Z",
+    "last_edited_time": "2026-08-18T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rosseta 2는 애플 실리콘이 탑재된 맥에서 인텔 기반의 기존 앱을 실행할 수 있도록 변환해주는 동적 바이너리 변환(에뮬레이션) 소프트웨어이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rosseta 2는 애플 실리콘이 탑재된 맥에서 인텔 기반의 기존 앱을 실행할 수 있도록 변환해주는 동적 바이너리 변환(에뮬레이션) 소프트웨어이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8057-9511-c2e5af884f82",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:21:00.000Z",
+    "last_edited_time": "2026-08-18T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이를 활용해 Docker에서 Linux x86_64 설치 후 연결해 사용할 수 있도록 한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이를 활용해 Docker에서 Linux x86_64 설치 후 연결해 사용할 수 있도록 한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8062-97ba-f49f00168bbe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:20:00.000Z",
+    "last_edited_time": "2026-08-18T18:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rosseta 설치",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rosseta 설치",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8032-a28f-fb03d5733119",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:20:00.000Z",
+    "last_edited_time": "2026-08-18T18:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "xcode-select --install\nsoftwareupdate --install-rosetta --agree-to-license",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "xcode-select --install\nsoftwareupdate --install-rosetta --agree-to-license",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-805c-8698-c3ded41351e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:21:00.000Z",
+    "last_edited_time": "2026-08-18T18:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "기본적으로 있는 기능이기 때문에 이정도로 충분하다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "기본적으로 있는 기능이기 때문에 이정도로 충분하다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-807e-b4d4-cdbe7de1c6d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:22:00.000Z",
+    "last_edited_time": "2026-08-18T18:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Docker Desktop 설치",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Docker Desktop 설치",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8032-929f-f74c9f035f4e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:22:00.000Z",
+    "last_edited_time": "2026-08-18T18:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "https://www.docker.com/",
+            "link": {
+              "url": "https://www.docker.com/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "https://www.docker.com/",
+          "href": "https://www.docker.com/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 에서 Docker 설치 파일을 다운로드한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 에서 Docker 설치 파일을 다운로드한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80c1-8fc0-cc7adf93cf3e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:24:00.000Z",
+    "last_edited_time": "2026-08-18T18:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "계정 정보를 로그인을 하여 Docker 환경을 준비해둔다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "계정 정보를 로그인을 하여 Docker 환경을 준비해둔다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80e9-9ed6-cf712933d5a6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:25:00.000Z",
+    "last_edited_time": "2026-08-18T18:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "docker run \\\n  --platform linux/amd64 \\                 linux/amd64 환경\n  --name [이름] \\                           컨테이너 이름 설정\n  -it \\\n  --mount type=bind,src=\"$PWD\",dst=/workspace \\\n  -w /workspace \\                          현재 경로를 workspace와 연결\n  ubuntu:24.04 \\                           우분투 버전\n  bash",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "docker run \\\n  --platform linux/amd64 \\                 linux/amd64 환경\n  --name [이름] \\                           컨테이너 이름 설정\n  -it \\\n  --mount type=bind,src=\"$PWD\",dst=/workspace \\\n  -w /workspace \\                          현재 경로를 workspace와 연결\n  ubuntu:24.04 \\                           우분투 버전\n  bash",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-805a-963e-ffded6f28fda",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:28:00.000Z",
+    "last_edited_time": "2026-08-18T18:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 코드를 입력해 docker container를 사용한다. 코드 설명은 위와 같다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 코드를 입력해 docker container를 사용한다. 코드 설명은 위와 같다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80e8-8197-c3148d8a5b85",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:32:00.000Z",
+    "last_edited_time": "2026-08-18T18:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "$PWD",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "$PWD",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "는 현재 폴더 경로를 가리킨다. 즉, 다음과 같은 구조가 된다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "는 현재 폴더 경로를 가리킨다. 즉, 다음과 같은 구조가 된다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-804b-9fa6-fd028767d193",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:33:00.000Z",
+    "last_edited_time": "2026-08-18T18:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mac\n~/[폴더 경로]\n              ↕\n         Docker mount\n              ↕\nUbuntu x86-64\n/workspace",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mac\n~/[폴더 경로]\n              ↕\n         Docker mount\n              ↕\nUbuntu x86-64\n/workspace",
+          "href": null
+        }
+      ],
+      "language": "plain text"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8077-80a4-c967562e43ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:33:00.000Z",
+    "last_edited_time": "2026-08-18T18:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 나처럼 GDB를 사용할 유저는 다음과 같은 코드를 추가하는 것이 좋다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 나처럼 GDB를 사용할 유저는 다음과 같은 코드를 추가하는 것이 좋다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8012-a9d5-e28afc44a975",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:35:00.000Z",
+    "last_edited_time": "2026-08-18T18:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "--cap-add=SYS_PTRACE\n--security-opt seccomp=unconfined",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "--cap-add=SYS_PTRACE\n--security-opt seccomp=unconfined",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8032-9311-e14e82cac6f9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:35:00.000Z",
+    "last_edited_time": "2026-08-18T18:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Docker의 기본 보안 제한 때문에 GDB의 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Docker의 기본 보안 제한 때문에 GDB의 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "ptrace",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "ptrace",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "디버깅이 막히는 경우를 사전에 방지하는 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "디버깅이 막히는 경우를 사전에 방지하는 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8069-b691-fef0c9b9781c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:36:00.000Z",
+    "last_edited_time": "2026-08-18T18:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "컨테이너 실행창에 들어간 뒤에는 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "컨테이너 실행창에 들어간 뒤에는 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "uname -m",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "uname -m",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "을 통해 x86_64인지 확인한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "을 통해 x86_64인지 확인한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80fb-8f48-fc2440c756a7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:43:00.000Z",
+    "last_edited_time": "2026-08-18T18:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Docker 실행 방법",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Docker 실행 방법",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8093-b41d-da20b5412656",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:43:00.000Z",
+    "last_edited_time": "2026-08-18T18:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Docker Desktop에 들어가서 직접 수동으로 실행하는 방법도 있다. 하지만 CLI에서 직접 실행하는 것이 편하므로 그 방법을 알려주겠다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Docker Desktop에 들어가서 직접 수동으로 실행하는 방법도 있다. 하지만 CLI에서 직접 실행하는 것이 편하므로 그 방법을 알려주겠다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80f2-95ec-fd0633a8de48",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:44:00.000Z",
+    "last_edited_time": "2026-08-18T18:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "open -a Docker                      도커를 실행한다.\ndocker start -ai [컨테이너 이름]       해당 컨테이너를 실행한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "open -a Docker                      도커를 실행한다.\ndocker start -ai [컨테이너 이름]       해당 컨테이너를 실행한다.",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8078-add6-c135a13b52a9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:45:00.000Z",
+    "last_edited_time": "2026-08-18T18:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이를 통해 docker를 켠 후 컨테이너를 사용할 수 있다. 나가는 방법은 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이를 통해 docker를 켠 후 컨테이너를 사용할 수 있다. 나가는 방법은 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "exit",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "exit",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "입력이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "입력이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80ef-8c52-c3c2bb9325e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:38:00.000Z",
+    "last_edited_time": "2026-08-18T18:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8015-b274-ed121b923204",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:36:00.000Z",
+    "last_edited_time": "2026-08-18T18:37:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "여기까지가 linux/amd64(x86_64) 환경을 구축하는 방법이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "여기까지가 linux/amd64(x86_64) 환경을 구축하는 방법이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8091-875c-e56ad291a07e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:37:00.000Z",
+    "last_edited_time": "2026-08-18T18:38:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "과정을 자세히 보면 Rosseta 2가 안 보인다. 이는 우리가 눈에 보이지 않는 부분에서 사용된다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "과정을 자세히 보면 Rosseta 2가 안 보인다. 이는 우리가 눈에 보이지 않는 부분에서 사용된다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80d9-aa08-f1859f9786fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:38:00.000Z",
+    "last_edited_time": "2026-08-18T18:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Docker Desktop 설정에서 “Apple Virtualization Framework + Use Rosetta for x86_64/amd64 emulation on Apple Silicon”이 활성화돼 있으면, Rosetta 2를 이용해서 x86_64 바이너리 실행을 가속한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Docker Desktop 설정에서 “Apple Virtualization Framework + Use Rosetta for x86_64/amd64 emulation on Apple Silicon”이 활성화돼 있으면, Rosetta 2를 이용해서 x86_64 바이너리 실행을 가속한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80dd-932f-ebba190579aa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:40:00.000Z",
+    "last_edited_time": "2026-08-18T18:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "한마디로 기존 에뮬레이션은 속도가 굉장히 느리지만, 이를 빠르게 만들어주는 역할을 해준다. 맥 내 기능이라 호환성이 높기 때문이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "한마디로 기존 에뮬레이션은 속도가 굉장히 느리지만, 이를 빠르게 만들어주는 역할을 해준다. 맥 내 기능이라 호환성이 높기 때문이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80ff-a1a9-e117e9fc4602",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:42:00.000Z",
+    "last_edited_time": "2026-08-18T18:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-805e-b357-f2e018736a53",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:42:00.000Z",
+    "last_edited_time": "2026-08-18T18:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "+ 커스텀",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "+ 커스텀",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8087-9a0c-eef3c83488f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:49:00.000Z",
+    "last_edited_time": "2026-08-18T18:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "GDB 도구",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "GDB 도구",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-808e-86e1-fc4fc82e3732",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:42:00.000Z",
+    "last_edited_time": "2026-08-18T18:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "apt update\napt install -y build-essential nasm gdb binutils file vim git",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "apt update\napt install -y build-essential nasm gdb binutils file vim git",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8054-9694-c1ec88b9eb77",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:42:00.000Z",
+    "last_edited_time": "2026-08-18T18:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 코드들을 통해 도구들을 미리 설치할 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 코드들을 통해 도구들을 미리 설치할 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80cd-8c39-f6e21eb7e755",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:49:00.000Z",
+    "last_edited_time": "2026-08-18T18:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "hostname",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "hostname",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8052-b33c-ef49530c1709",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:49:00.000Z",
+    "last_edited_time": "2026-08-18T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "처음 실행할때 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "처음 실행할때 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "root@",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "root@",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 옆에 거슬리는 숫자들이 있다. 이를 원하는 이름으로 바꾸는 방법이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 옆에 거슬리는 숫자들이 있다. 이를 원하는 이름으로 바꾸는 방법이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8093-bb98-d43492561792",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:51:00.000Z",
+    "last_edited_time": "2026-08-18T18:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "--hostname [이름]",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "--hostname [이름]",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80e7-82f0-f9c66a7b01e6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:51:00.000Z",
+    "last_edited_time": "2026-08-18T18:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "호스트 이름은 기존 컨테이너에서 깔끔하게 바꾸는 것이 어려워서, 새로 만드는 것이 제일 간단하다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "호스트 이름은 기존 컨테이너에서 깔끔하게 바꾸는 것이 어려워서, 새로 만드는 것이 제일 간단하다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-804b-a917-ddb23eec074a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:52:00.000Z",
+    "last_edited_time": "2026-08-18T18:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "바꾸는 방법이 필요하다면 직접 찾아보는 것을 바란다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "바꾸는 방법이 필요하다면 직접 찾아보는 것을 바란다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-804f-8ecd-de0c28cfe538",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:50:00.000Z",
+    "last_edited_time": "2026-08-18T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "username",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "username",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8098-bfda-c3068d507355",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:50:00.000Z",
+    "last_edited_time": "2026-08-18T18:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "root",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "root",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 변경하는 방법이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 변경하는 방법이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8041-9ccc-eb46bd3d2a0e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:53:00.000Z",
+    "last_edited_time": "2026-08-18T18:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "apt update\napt install -y sudo\nuseradd -m -s /bin/bash [이름]\npasswd [이름]\nusermod -aG sudo [이름]\nsu - [이름]\nchown -R [이름]:[이름] /workspace",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "apt update\napt install -y sudo\nuseradd -m -s /bin/bash [이름]\npasswd [이름]\nusermod -aG sudo [이름]\nsu - [이름]\nchown -R [이름]:[이름] /workspace",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80a9-8866-ea6e4e5b46cd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:58:00.000Z",
+    "last_edited_time": "2026-08-18T18:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이를 통해 새로운 사용자를 만들어 사용하는 방법이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이를 통해 새로운 사용자를 만들어 사용하는 방법이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8027-9d5e-eccc3f46ff21",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:58:00.000Z",
+    "last_edited_time": "2026-08-18T18:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "docker exec -it -u [이름] [컨테이너 이름] bash",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "docker exec -it -u [이름] [컨테이너 이름] bash",
+          "href": null
+        }
+      ],
+      "language": "bash"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8040-b858-cb00c4f6379c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:59:00.000Z",
+    "last_edited_time": "2026-08-18T18:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 코드를 통해 만든 사용자로 바로 사용할 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 코드를 통해 만든 사용자로 바로 사용할 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-802b-aee5-feaa6bd01a61",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T18:59:00.000Z",
+    "last_edited_time": "2026-08-18T19:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "기존 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "기존 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "docker start -ai ~",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "docker start -ai ~",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 사용하고 싶다면 Dockerfile에서 컨테이너 자체의 기본 사용자를 바꾸는 방법이 가장 좋다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 사용하고 싶다면 Dockerfile에서 컨테이너 자체의 기본 사용자를 바꾸는 방법이 가장 좋다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80dd-9165-ec9e6e62e2b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T19:00:00.000Z",
+    "last_edited_time": "2026-08-18T19:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "FROM ubuntu:24.04\n\nRUN apt update && apt install -y sudo \\\n    && useradd -m -s /bin/bash [이름] \\\n    && usermod -aG sudo [이름]\n\nUSER [이름]\nWORKDIR /workspace\n\nCMD [\"/bin/bash\"]",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "FROM ubuntu:24.04\n\nRUN apt update && apt install -y sudo \\\n    && useradd -m -s /bin/bash [이름] \\\n    && usermod -aG sudo [이름]\n\nUSER [이름]\nWORKDIR /workspace\n\nCMD [\"/bin/bash\"]",
+          "href": null
+        }
+      ],
+      "language": "docker"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-806f-8d95-cf5eed3287ff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T19:01:00.000Z",
+    "last_edited_time": "2026-08-18T19:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-804c-9ea1-fd1ebc73adbc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T19:03:00.000Z",
+    "last_edited_time": "2026-08-18T19:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작업 후기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작업 후기",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8064-9ec9-e2daed5c87e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T19:01:00.000Z",
+    "last_edited_time": "2026-08-18T19:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "나는 맥북에서 처음 리눅스 환경을 사용할 때 안되는 것도 많고 모르는 것도 많아 고생을 했다. 맥북을 혐오하게 된 주원인이다. 보안 문제, 컴파일러 차이, 운영체제 등 달라서 안 되는게 너무 많아서 1년동안 화가 많이 난 상태이다. 그래도 해당 방안을 찾아서 조금 편해지려는 바이다. 이 글을 본 맥 사람들은 이 환경을 편하게 사용할 수 있길 바란다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "나는 맥북에서 처음 리눅스 환경을 사용할 때 안되는 것도 많고 모르는 것도 많아 고생을 했다. 맥북을 혐오하게 된 주원인이다. 보안 문제, 컴파일러 차이, 운영체제 등 달라서 안 되는게 너무 많아서 1년동안 화가 많이 난 상태이다. 그래도 해당 방안을 찾아서 조금 편해지려는 바이다. 이 글을 본 맥 사람들은 이 환경을 편하게 사용할 수 있길 바란다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8007-b2ac-d19b4a547669",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-18T19:57:00.000Z",
+    "last_edited_time": "2026-08-18T19:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "그리고 macOS 28부턴 Rosseta 2를 지원하지 않는다고 한다. 나는 맥북이 싫다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "그리고 macOS 28부턴 Rosseta 2를 지원하지 않는다고 한다. 나는 맥북이 싫다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]
