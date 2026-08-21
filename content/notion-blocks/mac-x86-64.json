@@ -2571,5 +2571,115 @@
       "icon": null,
       "color": "default"
     }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-8038-8b58-eafa4f9573de",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-21T05:08:00.000Z",
+    "last_edited_time": "2026-08-21T05:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-80b8-830a-c313b9904bf3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-21T05:08:00.000Z",
+    "last_edited_time": "2026-08-21T05:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "+추가",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "+추가",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-80d0-b88b-d58838bd02c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c06d44f-ad1f-805d-b17e-fff50a94b4f1"
+    },
+    "created_time": "2026-08-21T05:09:00.000Z",
+    "last_edited_time": "2026-08-21T05:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Rosseta 2를 통해 사용하더라도 pwndbg는 또 막히기 때문에 다른 방법을 통해 사용할 수 있도록 설정을 해주어야 한다. 그 방법이 좀 복잡하다. 나도 약 2시간동안 씨름한 뒤에 겨우 해결했다. 나는 맥북이 싫다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Rosseta 2를 통해 사용하더라도 pwndbg는 또 막히기 때문에 다른 방법을 통해 사용할 수 있도록 설정을 해주어야 한다. 그 방법이 좀 복잡하다. 나도 약 2시간동안 씨름한 뒤에 겨우 해결했다. 나는 맥북이 싫다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
   }
 ]
