@@ -1,0 +1,2322 @@
+[
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-809a-ac8e-f3190aeb9a4a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:42:00.000Z",
+    "last_edited_time": "2026-08-17T18:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "들어가기 앞서, 작성자는 현재 카톡 수정 관련해서 굉장히 화가 난 상태이다. LLM의 허풍과 오류 등으로 계속 되는 반복적인 수정, 토큰의 부족, 소요되는 시간 등 개발 중 지친 상태이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "들어가기 앞서, 작성자는 현재 카톡 수정 관련해서 굉장히 화가 난 상태이다. LLM의 허풍과 오류 등으로 계속 되는 반복적인 수정, 토큰의 부족, 소요되는 시간 등 개발 중 지친 상태이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8017-8d40-cc26ec6365b9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:44:00.000Z",
+    "last_edited_time": "2026-08-17T18:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "그래도 개발 중 완성된 상태이며 카톡 앱에 플러그인 적용 중 문제가 생긴 상황이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "그래도 개발 중 완성된 상태이며 카톡 앱에 플러그인 적용 중 문제가 생긴 상황이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8044-a76f-e55f90010642",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:44:00.000Z",
+    "last_edited_time": "2026-08-17T19:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "개발 전 구조 재파악",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "개발 전 구조 재파악",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-803d-afc7-d0fb57984848",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:46:00.000Z",
+    "last_edited_time": "2026-08-17T18:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "카카오톡 앱 내부는 어떻게 되어있는가",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "카카오톡 앱 내부는 어떻게 되어있는가",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8064-b058-f86f1c6871c7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:46:00.000Z",
+    "last_edited_time": "2026-08-17T18:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "카카오톡 내부에는 현재 내가 수정할 수 있는 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "카카오톡 내부에는 현재 내가 수정할 수 있는 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".m",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": ".m",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "소스이 없다. 실제 Objective-C/Swift 클래스와 메서드는 아래 Mach-O 실행 파일 안에 컴파일돼있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "소스이 없다. 실제 Objective-C/Swift 클래스와 메서드는 아래 Mach-O 실행 파일 안에 컴파일돼있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8067-a9e4-f4cb269346bf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:47:00.000Z",
+    "last_edited_time": "2026-08-17T18:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "따라서 나는 실행 파일을 직접 패치하는 것이 아니라, 별도 dylib를 로드하고 Objective-C 런타임에서 특정 메서드 구현을 교체하는 방식을 사용할 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "따라서 나는 실행 파일을 직접 패치하는 것이 아니라, 별도 dylib를 로드하고 Objective-C 런타임에서 특정 메서드 구현을 교체하는 방식을 사용할 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8033-937f-cd629de10cb6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:40:00.000Z",
+    "last_edited_time": "2026-08-17T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "메인 화면, 왼쪽 숫자 배치",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "메인 화면, 왼쪽 숫자 배치",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-80fd-8cd1-d1aa0ccee67b",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-8033-937f-cd629de10cb6"
+        },
+        "created_time": "2026-08-17T18:54:00.000Z",
+        "last_edited_time": "2026-08-17T18:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "/Applications/KakaoTalk.app/Contents/Resources/FSMainViewController.nib",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "/Applications/KakaoTalk.app/Contents/Resources/FSMainViewController.nib",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-804d-88fb-ea5ec12b209a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:51:00.000Z",
+    "last_edited_time": "2026-08-17T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "조용한 채팅방 창",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "조용한 채팅방 창",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-8065-b7f9-dc7ee5f993eb",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-804d-88fb-ea5ec12b209a"
+        },
+        "created_time": "2026-08-17T18:54:00.000Z",
+        "last_edited_time": "2026-08-17T18:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "/Applications/KakaoTalk.app/Contents/Resources/FSArchiveFolderWindowController.nib",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "/Applications/KakaoTalk.app/Contents/Resources/FSArchiveFolderWindowController.nib",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-808a-832d-e541e4b6bed3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:51:00.000Z",
+    "last_edited_time": "2026-08-17T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "조용한 채팅방 목록",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "조용한 채팅방 목록",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-802b-a46d-df7368b8a77a",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-808a-832d-e541e4b6bed3"
+        },
+        "created_time": "2026-08-17T18:54:00.000Z",
+        "last_edited_time": "2026-08-17T18:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "/Applications/KakaoTalk.app/Contents/Resources/FSArchiveFolderViewController.nib",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "/Applications/KakaoTalk.app/Contents/Resources/FSArchiveFolderViewController.nib",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80f2-a5c2-c114b352e9b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:52:00.000Z",
+    "last_edited_time": "2026-08-17T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "채팅방 우클릭 메뉴가 붙는 셀",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "채팅방 우클릭 메뉴가 붙는 셀",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-8001-89bf-cae8876368ae",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-80f2-a5c2-c114b352e9b6"
+        },
+        "created_time": "2026-08-17T18:54:00.000Z",
+        "last_edited_time": "2026-08-17T18:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "/Applications/KakaoTalk.app/Contents/Resources/FSChatRoomTableCell.nib",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "/Applications/KakaoTalk.app/Contents/Resources/FSChatRoomTableCell.nib",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80a4-bc14-fcd8efc0ed94",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:52:00.000Z",
+    "last_edited_time": "2026-08-17T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "오픈채팅 전용 목록",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "오픈채팅 전용 목록",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-802d-9591-e5a4e8baffac",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-80a4-bc14-fcd8efc0ed94"
+        },
+        "created_time": "2026-08-17T18:54:00.000Z",
+        "last_edited_time": "2026-08-17T18:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "/Applications/KakaoTalk.app/Contents/Resources/FSOpenChatroomsTableViewController.nib",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "/Applications/KakaoTalk.app/Contents/Resources/FSOpenChatroomsTableViewController.nib",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80d2-b3d6-d4b5f32687b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:52:00.000Z",
+    "last_edited_time": "2026-08-17T18:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "N 이미지 등 이미지 리소스",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "N 이미지 등 이미지 리소스",
+          "href": null
+        }
+      ],
+      "color": "default"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-80e8-a4c8-d763c923de4b",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-80d2-b3d6-d4b5f32687b1"
+        },
+        "created_time": "2026-08-17T18:54:00.000Z",
+        "last_edited_time": "2026-08-17T18:55:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "/Applications/KakaoTalk.app/Contents/Resources/Assets.car",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": true,
+                "color": "default"
+              },
+              "plain_text": "/Applications/KakaoTalk.app/Contents/Resources/Assets.car",
+              "href": null
+            }
+          ],
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80bf-baa8-cf9af7997efe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:53:00.000Z",
+    "last_edited_time": "2026-08-17T18:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".nib",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": ".nib",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "은 화면 구성 파일이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "은 화면 구성 파일이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80a7-929b-c2cb697cc645",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:58:00.000Z",
+    "last_edited_time": "2026-08-17T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "오픈채팅 N 배지",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "오픈채팅 N 배지",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80d9-be0a-d263647af5b6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:59:00.000Z",
+    "last_edited_time": "2026-08-17T19:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "NTChatRoom.countOfNewMessage\n↓\nRFNotificationManager.updateDockBadge\n↓\ncountOfOpenChatNewMessages\n↓\nFSMainViewController.updateChatRoomNewBadge\n↓\nKUXNavigationController\n↓\nKUXNavigationBar\n↓\nopenChatRoomNewBadgeImage",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "NTChatRoom.countOfNewMessage\n↓\nRFNotificationManager.updateDockBadge\n↓\ncountOfOpenChatNewMessages\n↓\nFSMainViewController.updateChatRoomNewBadge\n↓\nKUXNavigationController\n↓\nKUXNavigationBar\n↓\nopenChatRoomNewBadgeImage",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "gray_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-800d-a98e-f85552e4b54c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:01:00.000Z",
+    "last_edited_time": "2026-08-17T19:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "새 메시지가 오면 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "새 메시지가 오면 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "RFNotificationManager",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "RFNotificationManager",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "가 안 읽은 메시지를 확인한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "가 안 읽은 메시지를 확인한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8092-8e48-e167f01e7aeb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T18:59:00.000Z",
+    "last_edited_time": "2026-08-17T19:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": true,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "-[RFNotificationManager updateDockBadge]",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "-[RFNotificationManager updateDockBadge]",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "gray_background"
+    },
+    "children": [
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-80a7-ac91-f44eeb03b5b7",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-8092-8e48-e167f01e7aeb"
+        },
+        "created_time": "2026-08-17T19:00:00.000Z",
+        "last_edited_time": "2026-08-17T19:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "-[RFNotificationManager countOfOpenChatNewMessages]",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "-[RFNotificationManager countOfOpenChatNewMessages]",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-8020-bfbc-dd4b74b125f0",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-8092-8e48-e167f01e7aeb"
+        },
+        "created_time": "2026-08-17T18:59:00.000Z",
+        "last_edited_time": "2026-08-17T19:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "-[FSMainViewController updateChatRoomNewBadge]",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "-[FSMainViewController updateChatRoomNewBadge]",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-801f-8bca-c1694affa826",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-8092-8e48-e167f01e7aeb"
+        },
+        "created_time": "2026-08-17T18:59:00.000Z",
+        "last_edited_time": "2026-08-17T19:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "-[KUXNavigationController updateChatRoomWithNewBadge:openChatRoomWithNewBadge:]",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "-[KUXNavigationController updateChatRoomWithNewBadge:openChatRoomWithNewBadge:]",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-80bd-ad17-d9bc4f0b6df8",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-8092-8e48-e167f01e7aeb"
+        },
+        "created_time": "2026-08-17T18:59:00.000Z",
+        "last_edited_time": "2026-08-17T19:00:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "-[KUXNavigationBar updateChatRoomWithNewBadge:openChatRoomWithNewBadge:]",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "-[KUXNavigationBar updateChatRoomWithNewBadge:openChatRoomWithNewBadge:]",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        }
+      },
+      {
+        "object": "block",
+        "id": "3bf6d44f-ad1f-802b-861a-d7936a8f9067",
+        "parent": {
+          "type": "block_id",
+          "block_id": "3bf6d44f-ad1f-8092-8e48-e167f01e7aeb"
+        },
+        "created_time": "2026-08-17T18:59:00.000Z",
+        "last_edited_time": "2026-08-17T18:59:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "27dd872b-594c-8140-a157-0002ccda3191"
+        },
+        "has_children": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "KUXNavigationBar.openChatRoomNewBadgeImage",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "KUXNavigationBar.openChatRoomNewBadgeImage",
+              "href": null
+            }
+          ],
+          "icon": null,
+          "color": "default"
+        }
+      }
+    ]
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80a4-9273-c081e4ec3822",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:01:00.000Z",
+    "last_edited_time": "2026-08-17T19:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 메서드와 속성은 이와 같다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 메서드와 속성은 이와 같다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-803f-90c0-d9af9feb31db",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:00:00.000Z",
+    "last_edited_time": "2026-08-17T19:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "openChatRoomNewBadgeImage.hidden = !openChatRoomWithNewBadge;",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "openChatRoomNewBadgeImage.hidden = !openChatRoomWithNewBadge;",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "gray_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8088-a538-ff71053d1f52",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:01:00.000Z",
+    "last_edited_time": "2026-08-17T19:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "최종적으로 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "최종적으로 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "KUXNavigationBar",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "KUXNavigationBar",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "에서 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "에서 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "openChatRoomWithNewBadge == YES",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "openChatRoomWithNewBadge == YES",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이면 N이 보이는 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이면 N이 보이는 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-8078-b840-fb9929ee517e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:06:00.000Z",
+    "last_edited_time": "2026-08-17T19:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "common_icon_newdot\ncommon_icon_newdot@2x",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "common_icon_newdot\ncommon_icon_newdot@2x",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "gray_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80b6-8344-c1e60377a054",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:06:00.000Z",
+    "last_edited_time": "2026-08-17T19:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Asset.car",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "Asset.car",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "에서 사용하는 오픈채팅 리소스이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "에서 사용하는 오픈채팅 리소스이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80bf-a719-f1f4ccb07b77",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:08:00.000Z",
+    "last_edited_time": "2026-08-17T19:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "조용한 채팅방",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "조용한 채팅방",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-808b-8b95-c326961f1c72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:09:00.000Z",
+    "last_edited_time": "2026-08-17T19:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "FSChatRoomTableCell.archiveChatRoom:\n↓\nFCMainController.archiveChatRoom:archive:\n↓\nNTChatRoom의 archive/vtype 상태 변경\n↓\n데이터 저장소 변경 이벤트\n↓\nLPObjectFetchController가 변경 감지\n↓\n전체 채팅 목록에서 삭제\n↓\n조용한 채팅방 목록에 삽입",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "FSChatRoomTableCell.archiveChatRoom:\n↓\nFCMainController.archiveChatRoom:archive:\n↓\nNTChatRoom의 archive/vtype 상태 변경\n↓\n데이터 저장소 변경 이벤트\n↓\nLPObjectFetchController가 변경 감지\n↓\n전체 채팅 목록에서 삭제\n↓\n조용한 채팅방 목록에 삽입",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "gray_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-809e-b021-e8e4ff09cab2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:09:00.000Z",
+    "last_edited_time": "2026-08-17T19:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "일반 채팅방을 조용한 채팅방으로 옮길때 이와 같은 경로가 실행된다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "일반 채팅방을 조용한 채팅방으로 옮길때 이와 같은 경로가 실행된다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80d8-88df-d094d2afbb2b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:10:00.000Z",
+    "last_edited_time": "2026-08-21T06:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "여기서 오픈채팅이 이동하지 않는 이유는 이전에 서술한 목록을 보면 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "여기서 오픈채팅이 이동하지 않는 이유는 이전에 서술한 목록을 보면 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3bf6d44f-ad1f-80a2-9cd7-f8fad411206b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-17T19:15:00.000Z",
+    "last_edited_time": "2026-08-18T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "개발 절차",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "개발 절차",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80b0-8285-cda5b247e603",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-18T08:02:00.000Z",
+    "last_edited_time": "2026-08-18T08:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "개발 도중 조용한 채팅방과 N 배지 삭제의 기능이 겹친다고 생각이 들어 두 기능을 분리시켜 각 복제 앱에 적용시켜보았다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "개발 도중 조용한 채팅방과 N 배지 삭제의 기능이 겹친다고 생각이 들어 두 기능을 분리시켜 각 복제 앱에 적용시켜보았다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8025-b709-d4a032d432ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-18T08:50:00.000Z",
+    "last_edited_time": "2026-08-18T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "조용한 채팅방",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "조용한 채팅방",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-8091-b475-c5fa097e37de",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-21T06:22:00.000Z",
+    "last_edited_time": "2026-08-21T06:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "변경된 앱을 실행하면 먼저 내가 만든 플러그인을 자동으로 로드한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "변경된 앱을 실행하면 먼저 내가 만든 플러그인을 자동으로 로드한다.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-8020-85b5-fc066d365e72",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-21T06:34:00.000Z",
+    "last_edited_time": "2026-08-21T06:35:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "오픈채팅인지 판별 후, 우클릭 메뉴에 이동/해제 메뉴를 추가한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "오픈채팅인지 판별 후, 우클릭 메뉴에 이동/해제 메뉴를 추가한다.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-80be-8ab6-ef7855764ea7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-21T06:36:00.000Z",
+    "last_edited_time": "2026-08-21T06:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "vtype을 바꾼 뒤 네이티브 이동 기능으로 이동/해제를 즉시 반영한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "vtype을 바꾼 뒤 네이티브 이동 기능으로 이동/해제를 즉시 반영한다.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8046-9ce5-d541bd56c14a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-18T08:51:00.000Z",
+    "last_edited_time": "2026-08-18T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "N 배지 삭제",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "N 배지 삭제",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-8024-916b-e7b679a78631",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-21T09:18:00.000Z",
+    "last_edited_time": "2026-08-21T15:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "하던 중 계속 되는 오류로 포기했다. 방법을 찾아보는 도중 주변인의 도움을 받아 Frida를 통해 우회할 수 있음을 깨달았다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "하던 중 계속 되는 오류로 포기했다. 방법을 찾아보는 도중 주변인의 도움을 받아 Frida를 통해 우회할 수 있음을 깨달았다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-8054-b957-e82a500428fe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-21T15:46:00.000Z",
+    "last_edited_time": "2026-08-21T15:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Frida를 이용해 다음 포스트를 작성하겠다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Frida를 이용해 다음 포스트를 작성하겠다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-80ed-a29c-cc3bd203c931",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-18T08:51:00.000Z",
+    "last_edited_time": "2026-08-21T09:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3c06d44f-ad1f-8050-ae89-debc8601d3da",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-18T08:51:00.000Z",
+    "last_edited_time": "2026-08-18T08:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "작업 후기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "작업 후기",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3c36d44f-ad1f-80b6-87b9-d53d84fede8b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3bf6d44f-ad1f-8059-886f-eb990a900a6f"
+    },
+    "created_time": "2026-08-21T09:18:00.000Z",
+    "last_edited_time": "2026-08-21T09:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "앞으론 설계 과정에서 구상도를 그리고 좀 더 체계적으로 다가가는 연습을 해야겠다. 약간 개발을 막무가내로 하는 감이 있는데 중간중간 섞여서 이해도 없고 재미도 없는 지루한 시간을 보내게 된다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "앞으론 설계 과정에서 구상도를 그리고 좀 더 체계적으로 다가가는 연습을 해야겠다. 약간 개발을 막무가내로 하는 감이 있는데 중간중간 섞여서 이해도 없고 재미도 없는 지루한 시간을 보내게 된다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]
