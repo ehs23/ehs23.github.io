@@ -227,7 +227,7 @@
       "page_id": "3c46d44f-ad1f-8026-b76f-f1de623554ea"
     },
     "created_time": "2026-08-22T11:41:00.000Z",
-    "last_edited_time": "2026-08-22T11:41:00.000Z",
+    "last_edited_time": "2026-08-23T13:05:00.000Z",
     "created_by": {
       "object": "user",
       "id": "27dd872b-594c-8140-a157-0002ccda3191"
@@ -244,7 +244,7 @@
         {
           "type": "text",
           "text": {
-            "content": "비트 단위로 XOR 연산을 한다.",
+            "content": "비트 단위로 XOR 연산을 한다. 이때 다시 하면 원본 상태로 돌아온다.",
             "link": null
           },
           "annotations": {
@@ -255,7 +255,7 @@
             "code": false,
             "color": "default"
           },
-          "plain_text": "비트 단위로 XOR 연산을 한다.",
+          "plain_text": "비트 단위로 XOR 연산을 한다. 이때 다시 하면 원본 상태로 돌아온다.",
           "href": null
         }
       ],
