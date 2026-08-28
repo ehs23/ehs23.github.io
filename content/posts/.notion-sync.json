@@ -13,6 +13,8 @@
     "reversing-start.md",
     "reversing-study-1.md",
     "reversing-study-2.md",
+    "reversing-study-3.md",
+    "reversing-study-4.md",
     "shorts-limiter-development.md"
   ],
   "blockFiles": [
@@ -29,6 +31,8 @@
     "reversing-start.json",
     "reversing-study-1.json",
     "reversing-study-2.json",
+    "reversing-study-3.json",
+    "reversing-study-4.json",
     "shorts-limiter-development.json"
   ],
   "assets": [
@@ -58,6 +62,14 @@
     "notion-assets/reversing-study-2/de253ba99df1be04bd7c.png",
     "notion-assets/reversing-study-2/e795622150bb6e91d206.png",
     "notion-assets/reversing-study-2/f71deacd60faed3ce36b.png",
+    "notion-assets/reversing-study-3/1ae9c796ca9d623eaafd.png",
+    "notion-assets/reversing-study-3/2e212c8c13ecb21193bc.png",
+    "notion-assets/reversing-study-3/5ac92b16b20184866968.png",
+    "notion-assets/reversing-study-3/5f70722c94859348d9d8.png",
+    "notion-assets/reversing-study-3/915a0ccf7c36dabf3d5b.png",
+    "notion-assets/reversing-study-3/ca3dc8d1ce34444f86dd.png",
+    "notion-assets/reversing-study-4/13d56c8be83bbcd7b10b.png",
+    "notion-assets/reversing-study-4/51f269a1b8c5cc5a517f.png",
     "notion-assets/shorts-limiter-development/336baf449ebb6c1b1e83.png",
     "notion-assets/shorts-limiter-development/7532b3afb77b3c15feea.png",
     "notion-assets/shorts-limiter-development/92f7f69164776e7fe48f.png",
