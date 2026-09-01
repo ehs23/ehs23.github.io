@@ -1,0 +1,3451 @@
+[
+  {
+    "object": "block",
+    "id": "3c96d44f-ad1f-804c-8e50-cfb0689df267",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-27T18:04:00.000Z",
+    "last_edited_time": "2026-08-27T18:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "rev-basic-9",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "rev-basic-9",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-808f-b01d-d468d8c6f0c4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T06:39:00.000Z",
+    "last_edited_time": "2026-08-28T06:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/ddc66922830120fd99ff.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8046-82e2-dae7076361ad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T06:39:00.000Z",
+    "last_edited_time": "2026-08-28T06:40:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_140001000",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_140001000",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-807f-8814-e217ede81910",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:51:00.000Z",
+    "last_edited_time": "2026-08-28T15:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1400010A0",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1400010A0",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 통해 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 통해 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "unk_140004000",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "unk_140004000",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "의 배열 값과 일치하면 된다는 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "의 배열 값과 일치하면 된다는 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-80a8-8732-de8bf65e7544",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:51:00.000Z",
+    "last_edited_time": "2026-08-28T15:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/e2e0854e01b8b02e40a0.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-805b-a179-f912a4d47868",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T06:40:00.000Z",
+    "last_edited_time": "2026-08-28T15:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이를 암호화하는 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이를 암호화하는 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1400010A0",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1400010A0",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8016-aec7-c02d8d2b588f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:52:00.000Z",
+    "last_edited_time": "2026-08-28T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이를 간단히 하면 다음과 같다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이를 간단히 하면 다음과 같다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-80fd-88f7-e171de08cf35",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:52:00.000Z",
+    "last_edited_time": "2026-08-28T15:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "입력값을 8단위로 불러옴 →  ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "입력값을 8단위로 불러옴 →  ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "ror(a1[(j+1)&7)]+byte_140004020[”I_am_KEY”[j]^a1[j]],5)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "ror(a1[(j+1)&7)]+byte_140004020[”I_am_KEY”[j]^a1[j]],5)",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " → 16번 반복",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " → 16번 반복",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8002-9f07-da908e26a48a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:54:00.000Z",
+    "last_edited_time": "2026-08-28T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 암호화는 이전 값을 변형 후 다음 값에 영향을 주기 때문에 반대 방향으로 역산을 해야한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 암호화는 이전 값을 변형 후 다음 값에 영향을 주기 때문에 반대 방향으로 역산을 해야한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-80b1-b160-d8dc0f2179a2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:57:00.000Z",
+    "last_edited_time": "2026-08-28T15:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "역산 방법을 간단히 하면 다음과 같다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "역산 방법을 간단히 하면 다음과 같다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-80e7-8e66-f9c02d3489e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:57:00.000Z",
+    "last_edited_time": "2026-08-28T15:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "quote",
+    "quote": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "rol(a1[(j+1)&7)],5)-byte_140004020[”I_am_KEY”[j]^a1[j]]",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "rol(a1[(j+1)&7)],5)-byte_140004020[”I_am_KEY”[j]^a1[j]]",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " , 이때 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " , 이때 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "j",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "j",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "는 역순",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "는 역순",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-80b7-bf0f-d44c06e5ae5b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:58:00.000Z",
+    "last_edited_time": "2026-08-28T15:58:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "key = [ord(x) for x in \"I_am_KEY\"]\nn = [126, 125, 154, 139, 37, 45, 213, 61, 3, 43,\n     56, 152, 39, 159, 79, 188, 42, 121, 0, 125, 196, 42, 79, 88, 0]\nn1 = [99, 124, 119, 123, 242, 107, 111, 197, 48, 1, 103, 43,\n    254, 215, 171, 118, 202, 130, 201, 125, 250, 89, 71,\n    240, 173, 212, 162, 175, 156, 164, 114, 192, 183, 253,\n    147, 38, 54, 63, 247, 204, 52, 165, 229, 241, 113, 216,\n    49, 21, 4, 199, 35, 195, 24, 150, 5, 154, 7, 18, 128,\n    226, 235, 39, 178, 117, 9, 131, 44, 26, 27, 110, 90,\n    160, 82, 59, 214, 179, 41, 227, 47, 132, 83, 209, 0,\n    237, 32, 252, 177, 91, 106, 203, 190, 57, 74, 76, 88,\n    207, 208, 239, 170, 251, 67, 77, 51, 133, 69, 249, 2,\n    127, 80, 60, 159, 168, 81, 163, 64, 143, 146, 157, 56,\n    245, 188, 182, 218, 33, 16, 255, 243, 210, 205, 12,\n    19, 236, 95, 151, 68, 23, 196, 167, 126, 61, 100, 93,\n    25, 115, 96, 129, 79, 220, 34, 42, 144, 136, 70, 238,\n    184, 20, 222, 94, 11, 219, 224, 50, 58, 10, 73, 6, 36,\n    92, 194, 211, 172, 98, 145, 149, 228, 121, 231, 200,\n    55, 109, 141, 213, 78, 169, 108, 86, 244, 234, 101,\n    122, 174, 8, 186, 120, 37, 46, 28, 166, 180, 198, 232,\n    221, 116, 31, 75, 189, 139, 138, 112, 62, 181, 102,\n    72, 3, 246, 14, 97, 53, 87, 185, 134, 193, 29, 158,\n    225, 248, 152, 17, 105, 217, 142, 148, 155, 30, 135,\n    233, 206, 85, 40, 223, 140, 161, 137, 13, 191, 230,\n    66, 104, 65, 153, 45, 15, 176, 84, 187, 22]\n\ndef rol(value, shift, bits=8):\n    shift %= bits\n    mask = (1 << bits) -1\n    \n    return (value << shift | value >> (bits - shift)) & mask\nr=\"\"\n\nfor x in range(16, -1, -8):\n    for i in range(16):\n        for j in range(7, -1, -1):\n            n[((j+1)&7) +x] = (rol(n[((j+1)&7) +x],5)-(n1[key[j]^n[j+x]]))&0xff\n            \n            \nfor x in range(24):\n    r+=chr(n[x])\nprint(repr(r))",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "key = [ord(x) for x in \"I_am_KEY\"]\nn = [126, 125, 154, 139, 37, 45, 213, 61, 3, 43,\n     56, 152, 39, 159, 79, 188, 42, 121, 0, 125, 196, 42, 79, 88, 0]\nn1 = [99, 124, 119, 123, 242, 107, 111, 197, 48, 1, 103, 43,\n    254, 215, 171, 118, 202, 130, 201, 125, 250, 89, 71,\n    240, 173, 212, 162, 175, 156, 164, 114, 192, 183, 253,\n    147, 38, 54, 63, 247, 204, 52, 165, 229, 241, 113, 216,\n    49, 21, 4, 199, 35, 195, 24, 150, 5, 154, 7, 18, 128,\n    226, 235, 39, 178, 117, 9, 131, 44, 26, 27, 110, 90,\n    160, 82, 59, 214, 179, 41, 227, 47, 132, 83, 209, 0,\n    237, 32, 252, 177, 91, 106, 203, 190, 57, 74, 76, 88,\n    207, 208, 239, 170, 251, 67, 77, 51, 133, 69, 249, 2,\n    127, 80, 60, 159, 168, 81, 163, 64, 143, 146, 157, 56,\n    245, 188, 182, 218, 33, 16, 255, 243, 210, 205, 12,\n    19, 236, 95, 151, 68, 23, 196, 167, 126, 61, 100, 93,\n    25, 115, 96, 129, 79, 220, 34, 42, 144, 136, 70, 238,\n    184, 20, 222, 94, 11, 219, 224, 50, 58, 10, 73, 6, 36,\n    92, 194, 211, 172, 98, 145, 149, 228, 121, 231, 200,\n    55, 109, 141, 213, 78, 169, 108, 86, 244, 234, 101,\n    122, 174, 8, 186, 120, 37, 46, 28, 166, 180, 198, 232,\n    221, 116, 31, 75, 189, 139, 138, 112, 62, 181, 102,\n    72, 3, 246, 14, 97, 53, 87, 185, 134, 193, 29, 158,\n    225, 248, 152, 17, 105, 217, 142, 148, 155, 30, 135,\n    233, 206, 85, 40, 223, 140, 161, 137, 13, 191, 230,\n    66, 104, 65, 153, 45, 15, 176, 84, 187, 22]\n\ndef rol(value, shift, bits=8):\n    shift %= bits\n    mask = (1 << bits) -1\n    \n    return (value << shift | value >> (bits - shift)) & mask\nr=\"\"\n\nfor x in range(16, -1, -8):\n    for i in range(16):\n        for j in range(7, -1, -1):\n            n[((j+1)&7) +x] = (rol(n[((j+1)&7) +x],5)-(n1[key[j]^n[j+x]]))&0xff\n            \n            \nfor x in range(24):\n    r+=chr(n[x])\nprint(repr(r))",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8002-90f8-c1ce9181496f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:58:00.000Z",
+    "last_edited_time": "2026-08-28T15:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 문제를 해결하는 파이썬 코드이다. n은 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 문제를 해결하는 파이썬 코드이다. n은 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "unk_140004000",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "unk_140004000",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " , n1은 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " , n1은 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "byte_140004020",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "byte_140004020",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8014-8970-c2a01930771d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:59:00.000Z",
+    "last_edited_time": "2026-08-28T15:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "정답",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "정답",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-802e-9268-e70ee04e7c47",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:59:00.000Z",
+    "last_edited_time": "2026-08-28T15:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Reverse__your__brain_;)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "Reverse__your__brain_;)",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이 정답인 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이 정답인 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8052-be00-f3643424ec8a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:59:00.000Z",
+    "last_edited_time": "2026-08-28T15:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-8081-a39b-d806129a6e4e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T15:59:00.000Z",
+    "last_edited_time": "2026-08-28T16:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "dungeon-in-1983",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "dungeon-in-1983",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-803c-950a-c6d58eb2a39d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:46:00.000Z",
+    "last_edited_time": "2026-08-29T17:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/adc9b4b3d3ff1237014f.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3ca6d44f-ad1f-80b5-94cc-e772daf78086",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-28T16:01:00.000Z",
+    "last_edited_time": "2026-08-29T17:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "main",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "main",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 함수이다. 조건을 확인해보면 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 함수이다. 조건을 확인해보면 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1407",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1407",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "에서 0 외의 값이 나올때 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "에서 0 외의 값이 나올때 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "STAGE cleared",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "STAGE cleared",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "가 나온다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "가 나온다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-8081-92ca-d40c91ef8bd6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:51:00.000Z",
+    "last_edited_time": "2026-08-29T17:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/b55f5a8f38c86736c54c.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-8058-9ef9-c24307c9b5fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:51:00.000Z",
+    "last_edited_time": "2026-08-29T17:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1407",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1407",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-8098-a8a5-e7ff8a738bb2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:54:00.000Z",
+    "last_edited_time": "2026-08-29T17:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "코드를 확인해보면 A를 무조건 시작해야 하고 A를 반복해서 누르면 안된다. B를 반복해서 눌러도 되며, 누른 뒤엔 A를 누를 수 있다. A를 누르면 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "코드를 확인해보면 A를 무조건 시작해야 하고 A를 반복해서 누르면 안된다. B를 반복해서 눌러도 되며, 누른 뒤엔 A를 누를 수 있다. A를 누르면 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "+1",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "+1",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", B를 누르면 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", B를 누르면 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "*2",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "*2",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "가 된다. 마지막을 보면 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "가 된다. 마지막을 보면 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "v7",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "v7",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "과 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "과 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "a2",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "a2",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "가 같아야 한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "가 같아야 한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80be-94e3-e4a645b3e9ba",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:56:00.000Z",
+    "last_edited_time": "2026-08-29T18:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "a2",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "a2",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "는 ptr이다. ptr을 살펴보자. ptr을 사용한 곳에서 알아보아야 하는데 그중 괜찮아 보이는 것은 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "는 ptr이다. ptr을 살펴보자. ptr을 사용한 곳에서 알아보아야 하는데 그중 괜찮아 보이는 것은 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_138D",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_138D",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80a1-b241-ea5c2bdbfbab",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:57:00.000Z",
+    "last_edited_time": "2026-08-29T17:57:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/c06c8dd6f9974411e2fe.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80dc-8cef-f366522faf7c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:57:00.000Z",
+    "last_edited_time": "2026-08-29T18:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_138D",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_138D",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이다. 이 코드를 보면 ptr를 바이트로 쪼개서 표현한 것을 알 수 있다. 어셈블리로 자세히 확인해보자.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이다. 이 코드를 보면 ptr를 바이트로 쪼개서 표현한 것을 알 수 있다. 어셈블리로 자세히 확인해보자.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80fc-8d2e-e7ba5ef5426d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T18:23:00.000Z",
+    "last_edited_time": "2026-08-29T18:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/1cac63ef8d4b64945b25.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80ff-8770-d847620ccabd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T18:39:00.000Z",
+    "last_edited_time": "2026-08-31T04:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "al",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "al",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "은 rax에서 가장 낮은 8비트이다. shr은 비트를 오른쪽으로 옮기고 남은 칸은 0으로 채우는 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "은 rax에서 가장 낮은 8비트이다. shr은 비트를 오른쪽으로 옮기고 남은 칸은 0으로 채우는 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8008-835b-ec022606e113",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T04:22:00.000Z",
+    "last_edited_time": "2026-08-31T04:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "12 34 56 78 90 ab cd ef가 있다고 가정해보자.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "12 34 56 78 90 ab cd ef가 있다고 가정해보자.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8045-99ad-f07f65bf4d79",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T04:21:00.000Z",
+    "last_edited_time": "2026-08-31T04:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "rax를 40비트(5바이트) 움직인 뒤 edi에 al을 넣는다. 즉, shr5는 00 00 00 00 00 12 34 56이 되므로 가장 낮은 주소인 56을 가져가는 것이다. 이는 DEX 값임을 알 수 있다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "rax를 40비트(5바이트) 움직인 뒤 edi에 al을 넣는다. 즉, shr5는 00 00 00 00 00 12 34 56이 되므로 가장 낮은 주소인 56을 가져가는 것이다. 이는 DEX 값임을 알 수 있다. ",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8097-a50c-ebee1625ebff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T04:33:00.000Z",
+    "last_edited_time": "2026-08-31T04:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "mov를 통해 ptr값을 다시 넣은 뒤 1바이트씩 줄여서 shr하는 방법을 통해 값들을 하나씩 받는다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "mov를 통해 ptr값을 다시 넣은 뒤 1바이트씩 줄여서 shr하는 방법을 통해 값들을 하나씩 받는다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-806e-9faa-d4022514fa3c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T04:53:00.000Z",
+    "last_edited_time": "2026-08-31T05:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "마지막은 다른데 6바이트를 움직인 뒤 ax를 통해 2바이트를 받아간다. 즉, 00 00 00 00 00 00 12 34 에서 12 34를 가져가는 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "마지막은 다른데 6바이트를 움직인 뒤 ax를 통해 2바이트를 받아간다. 즉, 00 00 00 00 00 00 12 34 에서 12 34를 가져가는 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80c8-9fa9-ed56101940d3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:05:00.000Z",
+    "last_edited_time": "2026-08-31T05:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "여기서 수상한 점은 rdi는 call 할때 첫번째 인자가 되지 않는가이다. 그래서 DEX를 push를 통해 stack에 저장하고 format을 rdi에 넣어 가장 먼저 format(출력)을 부른 것이다. 보면 edi, esi로 순서대로 받다가 r9, r8 ~ 등 역순으로 받는 모습을 확인할 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "여기서 수상한 점은 rdi는 call 할때 첫번째 인자가 되지 않는가이다. 그래서 DEX를 push를 통해 stack에 저장하고 format을 rdi에 넣어 가장 먼저 format(출력)을 부른 것이다. 보면 edi, esi로 순서대로 받다가 r9, r8 ~ 등 역순으로 받는 모습을 확인할 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80f8-9e3e-e7435a0a40f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:10:00.000Z",
+    "last_edited_time": "2026-08-31T05:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "format은 call printf에서 출력문에 해당하고 이에 들어가는 값들을 통해 총 8개의 인자를 받아야함을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "format은 call printf에서 출력문에 해당하고 이에 들어가는 값들을 통해 총 8개의 인자를 받아야함을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-802e-8345-e0e8e0d3610b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:10:00.000Z",
+    "last_edited_time": "2026-08-31T05:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이때 r9까진 들어가는데 인자가 더 필요함으로 stack을 사용한다는 것을 추측할 수 있다. 이때 리틀엔디언임과 FILO임으로 DEX를 먼저 넣어 높은 주소에 넣은 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이때 r9까진 들어가는데 인자가 더 필요함으로 stack을 사용한다는 것을 추측할 수 있다. 이때 리틀엔디언임과 FILO임으로 DEX를 먼저 넣어 높은 주소에 넣은 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8086-ad0d-ef78912341e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:12:00.000Z",
+    "last_edited_time": "2026-08-31T05:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "현재 (높은주소)HP_H HP_L DEX END INT VIT AGI STR (낮은주소)순임을 어셈블리를 통해 알 수 있다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "현재 (높은주소)HP_H HP_L DEX END INT VIT AGI STR (낮은주소)순임을 어셈블리를 통해 알 수 있다. ",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-8097-b766-fb303bc88313",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T18:22:00.000Z",
+    "last_edited_time": "2026-08-29T18:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/0729255cf5b896046cb6.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80a6-babc-eef0aea856ef",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T18:24:00.000Z",
+    "last_edited_time": "2026-08-31T04:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "레지스터이다. rax에서 하위32bits(낮은주소)는 eax이고, eax에서 하위 16bits는 ax, ax를 둘로 쪼갠 8bits들은 ah, al이다. 이를 통해 al은 1바이트, ax는 2바이트를 저장한 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "레지스터이다. rax에서 하위32bits(낮은주소)는 eax이고, eax에서 하위 16bits는 ax, ax를 둘로 쪼갠 8bits들은 ah, al이다. 이를 통해 al은 1바이트, ax는 2바이트를 저장한 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-809e-8a05-c1b85e9a6c56",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:59:00.000Z",
+    "last_edited_time": "2026-08-29T18:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/b77b3aa41773509db5cd.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-80b2-923e-dcd84da4212b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T17:59:00.000Z",
+    "last_edited_time": "2026-08-29T18:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "파일을 실행해보면 숫자가 랜덤으로 지정되며, 입력시간은 5초 밖에 안 준다. 따라서 이를 전부 계산하려면 파이썬 라이브러리인 pwntools를 사용해야 한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "파일을 실행해보면 숫자가 랜덤으로 지정되며, 입력시간은 5초 밖에 안 준다. 따라서 이를 전부 계산하려면 파이썬 라이브러리인 pwntools를 사용해야 한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80cf-96e1-c55ecdc6838f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:15:00.000Z",
+    "last_edited_time": "2026-08-31T05:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "from pwn import *\nfrom re import *\n\ncontext.log_level = \"debug\"\n\n# p = process(\"./prob\")\np = remote('host3.dreamhack.games',개인PORT주소)\n\nfor x in range(1,11):\n    p.recvuntil(b'[INFO] ')\n    l = list(map(int, re.search(rb\"HP:\\s*(\\d+), STR:\\s*(\\d+), AGI:\\s*(\\d+), VIT:\\s*(\\d+), INT:\\s*(\\d+), END:\\s*(\\d+), DEX:\\s*(\\d+)\",p.recvline()).groups()))\n    print(l)\n\n    s=((p8(l[1])+p8(l[2])+p8(l[3])+p8(l[4])+p8(l[5])+p8(l[6])+p16(l[0])))\n    print(s)\n    \n    s=int.from_bytes(s, \"little\")\n    print(s)\n    \n    r=\"\"\n    while(s>1):\n        if (s%2==0):\n            r=\"B\"+r\n            s= s//2\n        else:\n            r=\"A\"+r\n            s-=1\n\n    p.recvuntil(b'Cast your spell!: ')\n    p.sendline((\"A\"+r).encode())\n    if (b\"defeated.\" in p.recvline()): print(f\"{x} clear\")\n    \n    \np.interactive()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "from pwn import *\nfrom re import *\n\ncontext.log_level = \"debug\"\n\n# p = process(\"./prob\")\np = remote('host3.dreamhack.games',개인PORT주소)\n\nfor x in range(1,11):\n    p.recvuntil(b'[INFO] ')\n    l = list(map(int, re.search(rb\"HP:\\s*(\\d+), STR:\\s*(\\d+), AGI:\\s*(\\d+), VIT:\\s*(\\d+), INT:\\s*(\\d+), END:\\s*(\\d+), DEX:\\s*(\\d+)\",p.recvline()).groups()))\n    print(l)\n\n    s=((p8(l[1])+p8(l[2])+p8(l[3])+p8(l[4])+p8(l[5])+p8(l[6])+p16(l[0])))\n    print(s)\n    \n    s=int.from_bytes(s, \"little\")\n    print(s)\n    \n    r=\"\"\n    while(s>1):\n        if (s%2==0):\n            r=\"B\"+r\n            s= s//2\n        else:\n            r=\"A\"+r\n            s-=1\n\n    p.recvuntil(b'Cast your spell!: ')\n    p.sendline((\"A\"+r).encode())\n    if (b\"defeated.\" in p.recvline()): print(f\"{x} clear\")\n    \n    \np.interactive()",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cb6d44f-ad1f-8044-8eb7-c54be5ae0fd3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-29T18:14:00.000Z",
+    "last_edited_time": "2026-08-31T05:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 문제를 해결하는 파이썬 코드이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 문제를 해결하는 파이썬 코드이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-803d-b482-c81a27fedc9d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:16:00.000Z",
+    "last_edited_time": "2026-08-31T05:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "recvuntil()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "recvuntil()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "을 통해 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "을 통해 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "'[INFO] '",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "'[INFO] '",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 까지 받아낸다. 그후 re 라이브러리의 research를 통해 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 까지 받아낸다. 그후 re 라이브러리의 research를 통해 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "recvline()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "recvline()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "으로 받은 info 문자열을 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "으로 받은 info 문자열을 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\\s*(\\d+)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "\\s*(\\d+)",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "로 숫자만 받아낸다. 이때 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "로 숫자만 받아낸다. 이때 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\\s*",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "\\s*",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "는 0개 이상의 공백, ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "는 0개 이상의 공백, ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "\\d+",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "\\d+",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "는 1개 이상의 숫자이며, ()는 group으로 묶는다는 뜻이다. 이를 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "는 1개 이상의 숫자이며, ()는 group으로 묶는다는 뜻이다. 이를 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".groups()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": ".groups()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 통해 그룹으로 묶인 7개의 숫자를 불러온 후 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 통해 그룹으로 묶인 7개의 숫자를 불러온 후 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "map",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "map",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "을 통해 int로 바꾸고 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "을 통해 int로 바꾸고 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "list()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "list()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "을 통해 리스트로 바꿔준다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "을 통해 리스트로 바꿔준다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80a1-bcf0-eb50c690e5e2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:21:00.000Z",
+    "last_edited_time": "2026-08-31T05:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "p8",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "p8",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ",",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ",",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "p16",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "p16",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "은 int를 bytes로 패킹(Packing) 하는 것이다. 이때 8, 16은 8bits, 16bits를 의미한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "은 int를 bytes로 패킹(Packing) 하는 것이다. 이때 8, 16은 8bits, 16bits를 의미한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80dd-afb9-e0eb037182e9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:24:00.000Z",
+    "last_edited_time": "2026-08-31T05:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "후에 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "후에 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "int.from_bytes(,”little”)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "int.from_bytes(,”little”)",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "로 CPU가 읽는 방향인 리틀엔디언을 적용해 byte로부터 int로 전환하는 것이다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "로 CPU가 읽는 방향인 리틀엔디언을 적용해 byte로부터 int로 전환하는 것이다. ",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8076-9738-f74fd02501f7",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:27:00.000Z",
+    "last_edited_time": "2026-08-31T05:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "그후 값이 짝수이면 B를 홀수이면 A를 입력하도록 s가 1이 될때까지 반복시킨다. 이후 가장 처음은 A이므로 A를 연결해 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "그후 값이 짝수이면 B를 홀수이면 A를 입력하도록 s가 1이 될때까지 반복시킨다. 이후 가장 처음은 A이므로 A를 연결해 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "encode()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "encode()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 통해 bytes로 바꿔서 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 통해 bytes로 바꿔서 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sendline()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sendline()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "으로 입력을 보낸다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "으로 입력을 보낸다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8093-aca2-c8b077873a31",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:29:00.000Z",
+    "last_edited_time": "2026-08-31T05:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "문제가 해결되면 뜨는 문장을 recvline()으로 받아 확인해 clear를 띄운다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "문제가 해결되면 뜨는 문장을 recvline()으로 받아 확인해 clear를 띄운다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8007-a3a3-eaab6bdf0554",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:29:00.000Z",
+    "last_edited_time": "2026-08-31T05:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 프로그램은 10스테이지까지 있으므로 10번 반복해준다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 프로그램은 10스테이지까지 있으므로 10번 반복해준다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-803c-9615-dd4636bb2167",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:29:00.000Z",
+    "last_edited_time": "2026-08-31T05:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "마지막 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "마지막 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "p.interactive()",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "p.interactive()",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "은 유저가 상호작용할 수 있도록 하는 함수이다. 보통 쉘을 딴 후 확인을 위해 사용하지만, 여기선 마지막 스테이지까지 클리어한 뒤 Flag를 얻고 확인할 수 있도록 도와주는 역할이다. 그냥 매번 마지막에 넣어주면 좋다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "은 유저가 상호작용할 수 있도록 하는 함수이다. 보통 쉘을 딴 후 확인을 위해 사용하지만, 여기선 마지막 스테이지까지 클리어한 뒤 Flag를 얻고 확인할 수 있도록 도와주는 역할이다. 그냥 매번 마지막에 넣어주면 좋다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-809d-8694-ff44ae5877cf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:33:00.000Z",
+    "last_edited_time": "2026-08-31T05:33:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-5/7dfef8ac96dfe19d9ce9.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-801c-9fa6-c16285178dc5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:32:00.000Z",
+    "last_edited_time": "2026-08-31T05:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이런식으로 문자를 받고 입력을 보내는 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이런식으로 문자를 받고 입력을 보내는 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80bf-bbe2-ef1bc046601a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:32:00.000Z",
+    "last_edited_time": "2026-08-31T05:32:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "정답",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "정답",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8032-a7fc-dec0f690fae4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T05:32:00.000Z",
+    "last_edited_time": "2026-08-31T05:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "ddfd394275e80d059f04cee16667ad40e81820a0b105e2f80f0d17544a274a62",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "ddfd394275e80d059f04cee16667ad40e81820a0b105e2f80f0d17544a274a62",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 가 정답인 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 가 정답인 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-805c-a4e9-fc1dd6116dce",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T11:13:00.000Z",
+    "last_edited_time": "2026-08-31T11:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8014-b182-e4677c216bee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T11:13:00.000Z",
+    "last_edited_time": "2026-08-31T11:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "번외",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "번외",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80cc-bbc2-f6d30450a0ac",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T11:13:00.000Z",
+    "last_edited_time": "2026-08-31T11:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "위 문제 맥북 도커 파일 실행법",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "위 문제 맥북 도커 파일 실행법",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-8028-9712-de3c0f798cff",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T11:14:00.000Z",
+    "last_edited_time": "2026-08-31T11:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "docker build -t chall9 .",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "docker build -t chall9 .",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80c4-9810-cc7967ef8ab9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T11:14:00.000Z",
+    "last_edited_time": "2026-08-31T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "docker run \\\n    --platform=linux/amd64 \\\n    --rm \\\n    -d \\\n    -p 31337:31337 \\\n    --name chall9 \\\n    chall9",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "docker run \\\n    --platform=linux/amd64 \\\n    --rm \\\n    -d \\\n    -p 31337:31337 \\\n    --name chall9 \\\n    chall9",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3cd6d44f-ad1f-80d8-840f-df24a700bcca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3c96d44f-ad1f-8014-a07b-d62ff3b2e0bf"
+    },
+    "created_time": "2026-08-31T11:15:00.000Z",
+    "last_edited_time": "2026-08-31T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]
