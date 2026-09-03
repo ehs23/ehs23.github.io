@@ -1,5 +1,5 @@
 ---
-title: Reversing 첫입
+title: Reversing 첫입문
 date: '2026-08-14'
 description: Reversing 스터디장을 맡게 되었으므로 공부를 시작해봅시다.
 tags:
