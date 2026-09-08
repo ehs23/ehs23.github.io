@@ -3,7 +3,7 @@ title: Reversing Study-2
 date: '2026-08-22'
 description: >-
   rev-basic-0, rev-basic-1, rev-basic-2, rev-basic-3, rev-basic-4, rev-basic-5,
-  rev-basic-6
+  rev-basic-6, rev-basic-7
 tags:
   - Reversing
   - Dreamhack
