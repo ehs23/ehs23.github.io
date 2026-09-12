@@ -1,0 +1,1592 @@
+[
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-8058-ae90-fea7b2991438",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T07:07:00.000Z",
+    "last_edited_time": "2026-09-10T07:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "power cube",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "power cube",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-80bf-aee5-eddbd1919418",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T16:15:00.000Z",
+    "last_edited_time": "2026-09-10T16:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-8/d7548c72ba1bc7c9d0f6.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-8074-b91e-c238538cfcf5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T16:15:00.000Z",
+    "last_edited_time": "2026-09-10T16:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "main",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "main",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "이다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이다. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1259",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1259",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 312647161260980925번 반복한다. 그후 SHA256이라는 함수를 실행한다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 312647161260980925번 반복한다. 그후 SHA256이라는 함수를 실행한다. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1149",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1149",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 통해 플래그를 만든다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 통해 플래그를 만든다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-80db-a536-c89d0f67d94a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T16:18:00.000Z",
+    "last_edited_time": "2026-09-10T16:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-8/c1f4a114215dbb676aad.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-8080-bb56-ed4b965eb1ee",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T16:18:00.000Z",
+    "last_edited_time": "2026-09-10T16:22:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1259",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1259",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "이다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이다. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "qword_4010",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "qword_4010",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "을 세제곱하며, 그걸 저장한 후 반복문을 통해 다시 세제곱을 하는 구조이다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "을 세제곱하며, 그걸 저장한 후 반복문을 통해 다시 세제곱을 하는 구조이다. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "qword_4010",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "qword_4010",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "은 16045690984833335023으로 시작한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "은 16045690984833335023으로 시작한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-80fe-9f3a-d914f38df397",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T16:21:00.000Z",
+    "last_edited_time": "2026-09-10T16:24:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "세제곱을 반복하면 수학적으로 다음과 같이 축약할 수 있다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "세제곱을 반복하면 수학적으로 다음과 같이 축약할 수 있다. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "qword_4010 ** (3 ** 312647161260980925)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "qword_4010 ** (3 ** 312647161260980925)",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " ",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d76d44f-ad1f-802e-b7a9-d909691f1a48",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-10T16:25:00.000Z",
+    "last_edited_time": "2026-09-11T04:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "SHA256은 아무런 인자 없이 실행되는 것이 이상하다. 어셈블리를 확인해본다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "SHA256은 아무런 인자 없이 실행되는 것이 이상하다. 어셈블리를 확인해본다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-8065-a449-e375c9da25b1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:02:00.000Z",
+    "last_edited_time": "2026-09-11T04:02:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-8/08791fc7afbebe1d1235.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-8043-8a81-e67b5852972f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:03:00.000Z",
+    "last_edited_time": "2026-09-11T04:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "qword_4010, 8, v6",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "qword_4010, 8, v6",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이렇게 들어간다. 이후 함수에서 v6을 인덱싱하므로 저장을 여기에 함을 알 수 있다. 8이 들어가므로 qword_4010의 8바이트만 사용함을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이렇게 들어간다. 이후 함수에서 v6을 인덱싱하므로 저장을 여기에 함을 알 수 있다. 8이 들어가므로 qword_4010의 8바이트만 사용함을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-8066-86a6-f2096a0d2ef4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:16:00.000Z",
+    "last_edited_time": "2026-09-11T04:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "SHA256은 무작위 해시를 반환하는 함수이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "SHA256은 무작위 해시를 반환하는 함수이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-807d-b458-fd96f753e80d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:15:00.000Z",
+    "last_edited_time": "2026-09-11T04:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-8/2934dbdbd9f4671bcdd8.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-80aa-be40-de1f52d6859d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:15:00.000Z",
+    "last_edited_time": "2026-09-11T04:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "해시값을 사용해 ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "해시값을 사용해 ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "0123456789abcdef",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "0123456789abcdef",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "의 인덱싱을 통해 문자를 뽑아온다. 나중에 실행해보면 알겠지만 해시값 문자열을 그대로 반환한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "의 인덱싱을 통해 문자를 뽑아온다. 나중에 실행해보면 알겠지만 해시값 문자열을 그대로 반환한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-801a-ae4a-dc1a7e766658",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:18:00.000Z",
+    "last_edited_time": "2026-09-11T04:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "import hashlib\n\nn = 16045690984833335023\niter = 312647161260980926\nmask = 2**64\nprint(mask)\n\ndef sub_1259_iter(n, iter, mask):\n    n = pow(n , pow(3, iter, mask) , mask)\n    return n\n\ndef sub_11A9(a1):\n    s = \"0123456789abcdef\"\n    v4 = []\n    for i in range(32):\n        # print(a1[i])\n        v4.append(s[int(a1[i]) >> 4])\n        v4.append(s[int(a1[i]) & 15])\n    print(len(v4))\n    return v4\n\n\nn = sub_1259_iter(n, iter, mask)\nn = n.to_bytes(8,\"little\")\nprint(n)\nsha256 = hashlib.sha256(n).digest() # 해시 암호화 기법, digest를 통해 16진수 바이트로 변환\nprint((sha256).hex())\nv3 = sub_11A9((sha256))\nprint(v3)\nprint(\"DH{\", end=\"\")\nfor x in v3:\n    print(x, end = \"\")\nprint(\"}\")",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "import hashlib\n\nn = 16045690984833335023\niter = 312647161260980926\nmask = 2**64\nprint(mask)\n\ndef sub_1259_iter(n, iter, mask):\n    n = pow(n , pow(3, iter, mask) , mask)\n    return n\n\ndef sub_11A9(a1):\n    s = \"0123456789abcdef\"\n    v4 = []\n    for i in range(32):\n        # print(a1[i])\n        v4.append(s[int(a1[i]) >> 4])\n        v4.append(s[int(a1[i]) & 15])\n    print(len(v4))\n    return v4\n\n\nn = sub_1259_iter(n, iter, mask)\nn = n.to_bytes(8,\"little\")\nprint(n)\nsha256 = hashlib.sha256(n).digest() # 해시 암호화 기법, digest를 통해 16진수 바이트로 변환\nprint((sha256).hex())\nv3 = sub_11A9((sha256))\nprint(v3)\nprint(\"DH{\", end=\"\")\nfor x in v3:\n    print(x, end = \"\")\nprint(\"}\")",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-804f-a2f6-f826747af572",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:17:00.000Z",
+    "last_edited_time": "2026-09-11T04:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 문제를 해결하는 파이썬 코드이다. 여기서 hashlib을 사용했는데 digest는 바이트, hexdigest는 hex를 출력한다. to_bytes는 8개만 사용하도록 할 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 문제를 해결하는 파이썬 코드이다. 여기서 hashlib을 사용했는데 digest는 바이트, hexdigest는 hex를 출력한다. to_bytes는 8개만 사용하도록 할 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-809c-b486-d2cc5cba85e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:19:00.000Z",
+    "last_edited_time": "2026-09-11T04:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "정답",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "정답",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-80b8-b44d-e17e562c3a24",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:19:00.000Z",
+    "last_edited_time": "2026-09-11T04:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "22f77ed522bc94e705ab54a6e198ba706d447bfd08459985829631f1389e9c27",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "22f77ed522bc94e705ab54a6e198ba706d447bfd08459985829631f1389e9c27",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 이 정답인 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 이 정답인 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-8036-9183-d3f2e0954137",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:19:00.000Z",
+    "last_edited_time": "2026-09-11T04:20:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-80bb-a36b-f8b3a6c0759a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T04:20:00.000Z",
+    "last_edited_time": "2026-09-11T07:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "baseball",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "baseball",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-80dd-9a1e-ca43cca5ff5e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:07:00.000Z",
+    "last_edited_time": "2026-09-12T11:07:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-8/e59ea8d1c5fd5a56bfcb.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d86d44f-ad1f-8068-affc-d40a9115fc9a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-11T07:18:00.000Z",
+    "last_edited_time": "2026-09-12T11:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "main",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "main",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "이다. table과 input 파일을 받는 것을 알 수 있다. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이다. table과 input 파일을 받는 것을 알 수 있다. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sub_1289",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sub_1289",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "를 확인해보자.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "를 확인해보자.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-80ea-9c7d-c77289bae10c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:10:00.000Z",
+    "last_edited_time": "2026-09-12T11:10:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "image",
+    "image": {
+      "caption": [],
+      "type": "file",
+      "file": {
+        "url": "/notion-assets/reversing-study-8/d6216bcf02ad3decc63d.png"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-806b-a4e8-df64d994b1c2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:10:00.000Z",
+    "last_edited_time": "2026-09-12T11:11:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "여기서 input을 암호화해서 table에서 인덱싱을 해 출력문을 만드는 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "여기서 input을 암호화해서 table에서 인덱싱을 해 출력문을 만드는 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-807e-90e5-d9e4a10626be",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:11:00.000Z",
+    "last_edited_time": "2026-09-12T11:12:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "사실 이 기법은 base64와 동일하다. 시중의 base64와는 다르게 커스텀 table을 사용한다는 점이다. 각각의 암호화는 8비트(1바이트)중 6비트씩 잘라서 사용하는 기법이며, base64에서도 동일하게 사용한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "사실 이 기법은 base64와 동일하다. 시중의 base64와는 다르게 커스텀 table을 사용한다는 점이다. 각각의 암호화는 8비트(1바이트)중 6비트씩 잘라서 사용하는 기법이며, base64에서도 동일하게 사용한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-80a1-9073-f26f840cee76",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:12:00.000Z",
+    "last_edited_time": "2026-09-12T11:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "따라서 우리가 기존 값을 구하기 위해선 6비트를 모아 다시 8비트 단위로 쪼개주는 것이다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "따라서 우리가 기존 값을 구하기 위해선 6비트를 모아 다시 8비트 단위로 쪼개주는 것이다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-80ea-8226-fe1bb3f7f823",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:13:00.000Z",
+    "last_edited_time": "2026-09-12T11:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "table 파일도 주어지지 않았기 때문에 따로 구해야한다. 이는 text inoutput 파일을 주었으므로 이를 통해 커스텀 테이블을 구해준다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "table 파일도 주어지지 않았기 때문에 따로 구해야한다. 이는 text inoutput 파일을 주었으므로 이를 통해 커스텀 테이블을 구해준다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-80b6-aa44-f71d5b097d7a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:13:00.000Z",
+    "last_edited_time": "2026-09-12T11:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "code",
+    "code": {
+      "caption": [],
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "byte_4040 = [0 for x in range(72)]\n\nwith open(\"baseball/text_in.txt\",\"rb\") as t_in, open(\"baseball/text_out.txt\",\"rb\") as t_out:\n    t_in = t_in.read()\n    t_out = t_out.read()\n    t_out_l = list(t_out)\n    inputsize = len(t_in)\n    size = (4*inputsize / 3+4) / 72 + 4*inputsize / 3+4+1\n\n    ### table\n    i, j = 0, 0\n    while(inputsize - i > 2):\n        byte_4040[t_in[i+0] >> 2] = t_out[j+0]\n        byte_4040[t_in[i+1] >> 4 | (16 * t_in[i+0]) & 48] = t_out[j+1]\n        byte_4040[t_in[i+2] >> 6 | (4 * t_in[i+1]) & 60] = t_out[j+2]\n        byte_4040[t_in[i+2] & 63] = t_out[j+3]\n        # t_out_l[j+0], t_out_l[j+1], t_out_l[j+2], t_out_l[j+3] = 0,0,0,0\n        i+=3\n        j+=4\n    if (inputsize - i != 0):\n        byte_4040[t_in[i] >> 2] = t_out[j]\n        if (inputsize - i == 1):\n            byte_4040[(16 * t_in[i]) & 48] = t_out[j+1]\n            # 마지막을 61 -> =\n            # t_out_l[j], t_out_l[j+1] = 0, 0\n        else:\n            byte_4040[(t_in[i+1] >> 4) | (16 * t_in[i]) & 48] = t_out[j+1]\n            byte_4040[(4 * t_in[i+1]) & 60] = t_out[j+2]\n            # 마지막을 61 -> =\n            # t_out_l[j], t_out_l[j+1], t_out_l[j+2] = 0, 0 ,0\n            \n    print(byte_4040)\n    # print(t_out_l)\n\n### flag\ni = 0\nflag = []\nwith open(\"baseball/flag_out.txt\",\"rb\") as out:\n    out = out.read()\n    \n    while(len(out) - i > 4):\n        flag.append( (byte_4040.index(out[i+0]) << 2) & 252 | (byte_4040.index(out[i+1]) >> 4) & 3 )\n        flag.append( (byte_4040.index(out[i+1]) << 4) & 240 | (byte_4040.index(out[i+2]) >> 2) & 15 )\n        flag.append( (byte_4040.index(out[i+2]) << 6) & 192 | (byte_4040.index(out[i+3]) >> 0) & 63 )\n        i += 4\n    \n    if ((len(out) - i) == 4):\n        flag.append( (byte_4040.index(out[i+0]) << 2) & 252 | (byte_4040.index(out[i+1]) >> 4) & 3 )\n        flag.append( (byte_4040.index(out[i+1]) << 4) & 240 | (byte_4040.index(out[i+2]) >> 2) & 15 )\n        \n    elif ((len(out) - i) == 3):\n        flag.append( (byte_4040.index(out[i+0]) << 2) & 252 | (byte_4040.index(out[i+1]) >> 4) & 3 )        \nprint(flag)\n\nprint(\"DH{\", end=\"\")\nfor x in flag:\n    print(chr(x),end=\"\")\nprint(\"}\")",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "byte_4040 = [0 for x in range(72)]\n\nwith open(\"baseball/text_in.txt\",\"rb\") as t_in, open(\"baseball/text_out.txt\",\"rb\") as t_out:\n    t_in = t_in.read()\n    t_out = t_out.read()\n    t_out_l = list(t_out)\n    inputsize = len(t_in)\n    size = (4*inputsize / 3+4) / 72 + 4*inputsize / 3+4+1\n\n    ### table\n    i, j = 0, 0\n    while(inputsize - i > 2):\n        byte_4040[t_in[i+0] >> 2] = t_out[j+0]\n        byte_4040[t_in[i+1] >> 4 | (16 * t_in[i+0]) & 48] = t_out[j+1]\n        byte_4040[t_in[i+2] >> 6 | (4 * t_in[i+1]) & 60] = t_out[j+2]\n        byte_4040[t_in[i+2] & 63] = t_out[j+3]\n        # t_out_l[j+0], t_out_l[j+1], t_out_l[j+2], t_out_l[j+3] = 0,0,0,0\n        i+=3\n        j+=4\n    if (inputsize - i != 0):\n        byte_4040[t_in[i] >> 2] = t_out[j]\n        if (inputsize - i == 1):\n            byte_4040[(16 * t_in[i]) & 48] = t_out[j+1]\n            # 마지막을 61 -> =\n            # t_out_l[j], t_out_l[j+1] = 0, 0\n        else:\n            byte_4040[(t_in[i+1] >> 4) | (16 * t_in[i]) & 48] = t_out[j+1]\n            byte_4040[(4 * t_in[i+1]) & 60] = t_out[j+2]\n            # 마지막을 61 -> =\n            # t_out_l[j], t_out_l[j+1], t_out_l[j+2] = 0, 0 ,0\n            \n    print(byte_4040)\n    # print(t_out_l)\n\n### flag\ni = 0\nflag = []\nwith open(\"baseball/flag_out.txt\",\"rb\") as out:\n    out = out.read()\n    \n    while(len(out) - i > 4):\n        flag.append( (byte_4040.index(out[i+0]) << 2) & 252 | (byte_4040.index(out[i+1]) >> 4) & 3 )\n        flag.append( (byte_4040.index(out[i+1]) << 4) & 240 | (byte_4040.index(out[i+2]) >> 2) & 15 )\n        flag.append( (byte_4040.index(out[i+2]) << 6) & 192 | (byte_4040.index(out[i+3]) >> 0) & 63 )\n        i += 4\n    \n    if ((len(out) - i) == 4):\n        flag.append( (byte_4040.index(out[i+0]) << 2) & 252 | (byte_4040.index(out[i+1]) >> 4) & 3 )\n        flag.append( (byte_4040.index(out[i+1]) << 4) & 240 | (byte_4040.index(out[i+2]) >> 2) & 15 )\n        \n    elif ((len(out) - i) == 3):\n        flag.append( (byte_4040.index(out[i+0]) << 2) & 252 | (byte_4040.index(out[i+1]) >> 4) & 3 )        \nprint(flag)\n\nprint(\"DH{\", end=\"\")\nfor x in flag:\n    print(chr(x),end=\"\")\nprint(\"}\")",
+          "href": null
+        }
+      ],
+      "language": "python"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-8056-bfc5-eaac000cf05f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:13:00.000Z",
+    "last_edited_time": "2026-09-12T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "이 문제를 해결하는 파이썬 코드이다. 위에서 테이블을 구했으며, 그 테이블을 통해 플래그를 구하였다. 6비트를 다시 8비트로 합쳐줌으로써 원본을 구한다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "이 문제를 해결하는 파이썬 코드이다. 위에서 테이블을 구했으며, 그 테이블을 통해 플래그를 구하였다. 6비트를 다시 8비트로 합쳐줌으로써 원본을 구한다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-806e-844f-d9fcb842d5e4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:15:00.000Z",
+    "last_edited_time": "2026-09-12T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "정답",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "정답",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-807b-bac7-e459b8155ce3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:15:00.000Z",
+    "last_edited_time": "2026-09-12T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Did you know how base64 works",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "Did you know how base64 works",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 가 정답인 것을 알 수 있다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 가 정답인 것을 알 수 있다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-800a-86cc-c21fbb152ef3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:15:00.000Z",
+    "last_edited_time": "2026-09-12T11:15:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-809b-9ac0-e9e6eef58e98",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:15:00.000Z",
+    "last_edited_time": "2026-09-12T11:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "여기까지가 class2 문제이다. 확연히 이전과는 다른 문제셋으로 이루어져 있으며 더러운 문제도 조금 존재했다. 그래도 여기서 다양한 풀이 방법을 배울 수 있었으며, 어려우면서도 리버싱을 재밌게 배울 수 있었다.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "여기까지가 class2 문제이다. 확연히 이전과는 다른 문제셋으로 이루어져 있으며 더러운 문제도 조금 존재했다. 그래도 여기서 다양한 풀이 방법을 배울 수 있었으며, 어려우면서도 리버싱을 재밌게 배울 수 있었다.",
+          "href": null
+        }
+      ],
+      "icon": null,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "3d96d44f-ad1f-806e-9448-f7b5dee792d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "3d76d44f-ad1f-8087-a408-e6bd367ad9f9"
+    },
+    "created_time": "2026-09-12T11:17:00.000Z",
+    "last_edited_time": "2026-09-12T11:17:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "27dd872b-594c-8140-a157-0002ccda3191"
+    },
+    "has_children": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [],
+      "icon": null,
+      "color": "default"
+    }
+  }
+]
