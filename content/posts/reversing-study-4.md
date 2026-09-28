@@ -1,7 +1,7 @@
 ---
 title: Reversing Study-4
 date: '2026-08-25'
-description: 'r-xor-t,legacyopt'
+description: 'r-xor-t, legacyopt'
 tags:
   - Reversing
   - Dreamhack
